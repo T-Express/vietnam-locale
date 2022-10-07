@@ -1,0 +1,4986 @@
+[
+	{
+		"description": "Huyện A Lưới",
+		"code": "5357",
+		"name": "A Lưới",
+		"province_code": "53",
+		"slug_name": "A Luoi"
+	},
+	{
+		"description": "Huyện An Biên",
+		"code": "9224",
+		"name": "An Biên",
+		"province_code": "92",
+		"slug_name": "An Bien"
+	},
+	{
+		"description": "Huyện An Dương",
+		"code": "1848",
+		"name": "An Dương",
+		"province_code": "18",
+		"slug_name": "An Duong"
+	},
+	{
+		"description": "Thị xã An Khê",
+		"code": "6024",
+		"name": "An Khê",
+		"province_code": "60",
+		"slug_name": "An Khe"
+	},
+	{
+		"description": "Huyện An Lão",
+		"code": "1853",
+		"name": "An Lão",
+		"province_code": "18",
+		"slug_name": "An Lao"
+	},
+	{
+		"description": "Huyện An Lão",
+		"code": "5938",
+		"name": "An Lão",
+		"province_code": "59",
+		"slug_name": "An Lao"
+	},
+	{
+		"description": "Huyện An Minh",
+		"code": "9227",
+		"name": "An Minh",
+		"province_code": "92",
+		"slug_name": "An Minh"
+	},
+	{
+		"description": "Huyện An Nhơn",
+		"code": "5920",
+		"name": "An Nhơn",
+		"province_code": "59",
+		"slug_name": "An Nhon"
+	},
+	{
+		"description": "Huyện An Phú",
+		"code": "8837",
+		"name": "An Phú",
+		"province_code": "88",
+		"slug_name": "An Phu"
+	},
+	{
+		"description": "Huyện Anh Sơn",
+		"code": "4724",
+		"name": "Anh Sơn",
+		"province_code": "46",
+		"slug_name": "Anh Son"
+	},
+	{
+		"description": "Thị xã Ayun Pa",
+		"code": "6053",
+		"name": "Ayun Pa",
+		"province_code": "60",
+		"slug_name": "Ayun Pa"
+	},
+	{
+		"description": "Huyện Ba Bể",
+		"code": "2627",
+		"name": "Ba Bể",
+		"province_code": "26",
+		"slug_name": "Ba Be"
+	},
+	{
+		"description": "Huyện Ba Chẽ",
+		"code": "2059",
+		"name": "Ba Chẽ",
+		"province_code": "20",
+		"slug_name": "Ba Che"
+	},
+	{
+		"description": "Huyện Ba Tri",
+		"code": "9333",
+		"name": "Ba Tri",
+		"province_code": "93",
+		"slug_name": "Ba Tri"
+	},
+	{
+		"description": "Huyện Ba Tơ",
+		"code": "5732",
+		"name": "Ba Tơ",
+		"province_code": "57",
+		"slug_name": "Ba To"
+	},
+	{
+		"description": "Huyện Ba Vì",
+		"code": "1547",
+		"name": "Ba Vì",
+		"province_code": "10",
+		"slug_name": "Ba Vi"
+	},
+	{
+		"description": "Quận Ba Đình",
+		"code": "1180",
+		"name": "Ba Đình",
+		"province_code": "10",
+		"slug_name": "Ba Dinh"
+	},
+	{
+		"description": "Thị xã Ba Đồn",
+		"code": "5122",
+		"name": "Ba Đồn",
+		"province_code": "51",
+		"slug_name": "Ba Don"
+	},
+	{
+		"description": "Thành phố Bà Rịa",
+		"code": "7951",
+		"name": "Bà Rịa",
+		"province_code": "79",
+		"slug_name": "Ba Ria"
+	},
+	{
+		"description": "Huyện Bá Thước",
+		"code": "4481",
+		"name": "Bá Thước",
+		"province_code": "44",
+		"slug_name": "Ba Thuoc"
+	},
+	{
+		"description": "Huyện Bác Ái",
+		"code": "6629",
+		"name": "Bác Ái",
+		"province_code": "66",
+		"slug_name": "Bac Ai"
+	},
+	{
+		"description": "Huyện Bát Xát",
+		"code": "3325",
+		"name": "Bát Xát",
+		"province_code": "33",
+		"slug_name": "Bat Xat"
+	},
+	{
+		"description": "Huyện Bảo Lạc",
+		"code": "2762",
+		"name": "Bảo Lạc",
+		"province_code": "27",
+		"slug_name": "Bao Lac"
+	},
+	{
+		"description": "Huyện Bảo Lâm",
+		"code": "2767",
+		"name": "Bảo Lâm",
+		"province_code": "27",
+		"slug_name": "Bao Lam"
+	},
+	{
+		"description": "Huyện Bảo Lâm",
+		"code": "6743",
+		"name": "Bảo Lâm",
+		"province_code": "67",
+		"slug_name": "Bao Lam"
+	},
+	{
+		"description": "Thành phố Bảo Lộc",
+		"code": "6747",
+		"name": "Bảo Lộc",
+		"province_code": "67",
+		"slug_name": "Bao Loc"
+	},
+	{
+		"description": "Huyện Bảo Thắng",
+		"code": "3341",
+		"name": "Bảo Thắng",
+		"province_code": "33",
+		"slug_name": "Bao Thang"
+	},
+	{
+		"description": "Huyện Bảo Yên",
+		"code": "3353",
+		"name": "Bảo Yên",
+		"province_code": "33",
+		"slug_name": "Bao Yen"
+	},
+	{
+		"description": "Thị xã Bạc Liêu",
+		"code": "9610",
+		"name": "Bạc Liêu",
+		"province_code": "96",
+		"slug_name": "Bac Lieu"
+	},
+	{
+		"description": "Huyện Bạch Long Vĩ",
+		"code": "1872",
+		"name": "Bạch Long Vĩ",
+		"province_code": "18",
+		"slug_name": "Bach Long Vi"
+	},
+	{
+		"description": "Huyện Bạch Thông",
+		"code": "2619",
+		"name": "Bạch Thông",
+		"province_code": "26",
+		"slug_name": "Bach Thong"
+	},
+	{
+		"description": "Thành phố Biên Hoà",
+		"code": "8110",
+		"name": "Biên Hoà",
+		"province_code": "81",
+		"slug_name": "Bien Hoa"
+	},
+	{
+		"description": "Huyện Bình Chánh",
+		"code": "7380",
+		"name": "Bình Chánh",
+		"province_code": "70",
+		"slug_name": "Binh Chanh"
+	},
+	{
+		"description": "Huyện Bình Gia",
+		"code": "2445",
+		"name": "Bình Gia",
+		"province_code": "24",
+		"slug_name": "Binh Gia"
+	},
+	{
+		"description": "Huyện Bình Giang",
+		"code": "1751",
+		"name": "Bình Giang",
+		"province_code": "17",
+		"slug_name": "Binh Giang"
+	},
+	{
+		"description": "Huyện Bình Liêu",
+		"code": "2061",
+		"name": "Bình Liêu",
+		"province_code": "20",
+		"slug_name": "Binh Lieu"
+	},
+	{
+		"description": "Huyện Bình Lục",
+		"code": "4038",
+		"name": "Bình Lục",
+		"province_code": "40",
+		"slug_name": "Binh Luc"
+	},
+	{
+		"description": "Huyện Cam Lâm",
+		"code": "6552",
+		"name": "Cam Lâm",
+		"province_code": "65",
+		"slug_name": "Cam Lam"
+	},
+	{
+		"description": "Thị xã Bình Minh",
+		"code": "8921",
+		"name": "Bình Minh",
+		"province_code": "89",
+		"slug_name": "Binh Minh"
+	},
+	{
+		"description": "Huyện Bình Sơn",
+		"code": "5718",
+		"name": "Bình Sơn",
+		"province_code": "57",
+		"slug_name": "Binh Son"
+	},
+	{
+		"description": "Quận Bình Thạnh",
+		"code": "7170",
+		"name": "Bình Thạnh",
+		"province_code": "70",
+		"slug_name": "Binh Thanh"
+	},
+	{
+		"description": "Quận Bình Thủy",
+		"code": "9028",
+		"name": "Bình Thủy",
+		"province_code": "90",
+		"slug_name": "Binh Thuy"
+	},
+	{
+		"description": "Quận Bình Tân",
+		"code": "7620",
+		"name": "Bình Tân",
+		"province_code": "70",
+		"slug_name": "Binh Tan"
+	},
+	{
+		"description": "Huyện Bình Xuyên",
+		"code": "2812",
+		"name": "Bình Xuyên",
+		"province_code": "28",
+		"slug_name": "Binh Xuyen"
+	},
+	{
+		"description": "Huyện Bình Đại",
+		"code": "9337",
+		"name": "Bình Đại",
+		"province_code": "93",
+		"slug_name": "Binh Dai"
+	},
+	{
+		"description": "Thị xã Bỉm Sơn",
+		"code": "4449",
+		"name": "Bỉm Sơn",
+		"province_code": "44",
+		"slug_name": "Bim Son"
+	},
+	{
+		"description": "Thị Xã Buôn Hồ",
+		"code": "6384",
+		"name": "Buôn Hồ",
+		"province_code": "63",
+		"slug_name": "Buon Ho"
+	},
+	{
+		"description": "Thành phố Buôn Ma Thuột",
+		"code": "6310",
+		"name": "Buôn Ma Thuột",
+		"province_code": "63",
+		"slug_name": "Buon Ma Thuot"
+	},
+	{
+		"description": "Huyện Buôn Đôn",
+		"code": "6360",
+		"name": "Buôn Đôn",
+		"province_code": "63",
+		"slug_name": "Buon Don"
+	},
+	{
+		"description": "Huyện Bù Đốp",
+		"code": "8336",
+		"name": "Bù Đốp",
+		"province_code": "83",
+		"slug_name": "Bu Dop"
+	},
+	{
+		"description": "Huyện Bù Đăng",
+		"code": "8317",
+		"name": "Bù Đăng",
+		"province_code": "83",
+		"slug_name": "Bu Dang"
+	},
+	{
+		"description": "Huyện Bàu Bàng",
+		"code": "8231",
+		"name": "Bàu Bàng",
+		"province_code": "82",
+		"slug_name": "Bau Bang"
+	},
+	{
+		"description": "Huyện Bến Cầu",
+		"code": "8429",
+		"name": "Bến Cầu",
+		"province_code": "84",
+		"slug_name": "Ben Cau"
+	},
+	{
+		"description": "Huyện Bến Lức",
+		"code": "8523",
+		"name": "Bến Lức",
+		"province_code": "85",
+		"slug_name": "Ben Luc"
+	},
+	{
+		"description": "Thành Phố Bến Tre",
+		"code": "9310",
+		"name": "Bến Tre",
+		"province_code": "93",
+		"slug_name": "Ben Tre"
+	},
+	{
+		"description": "Thị xã Bình Long",
+		"code": "8339",
+		"name": "Bình Long",
+		"province_code": "83",
+		"slug_name": "Binh Long"
+	},
+	{
+		"description": "Huyện Bình Tân",
+		"code": "8938",
+		"name": "Bình Tân",
+		"province_code": "89",
+		"slug_name": "Binh Tan"
+	},
+	{
+		"description": "Huyện Bù Gia Mập",
+		"code": "8320",
+		"name": "Bù Gia Mập",
+		"province_code": "83",
+		"slug_name": "Bu Gia Map"
+	},
+	{
+		"description": "Huyện Bắc Bình",
+		"code": "8019",
+		"name": "Bắc Bình",
+		"province_code": "80",
+		"slug_name": "Bac Binh"
+	},
+	{
+		"description": "Thành phố Bắc Giang",
+		"code": "2310",
+		"name": "Bắc Giang",
+		"province_code": "23",
+		"slug_name": "Bac Giang"
+	},
+	{
+		"description": "Huyện Bắc Hà",
+		"code": "3310",
+		"name": "Bắc Hà",
+		"province_code": "33",
+		"slug_name": "Bac Ha"
+	},
+	{
+		"description": "Thành phô Bắc Kạn",
+		"code": "2610",
+		"name": "Bắc Kạn",
+		"province_code": "26",
+		"slug_name": "Bac Kan"
+	},
+	{
+		"description": "Huyện Bắc Mê",
+		"code": "3112",
+		"name": "Bắc Mê",
+		"province_code": "31",
+		"slug_name": "Bac Me"
+	},
+	{
+		"description": "Thành Phố Bắc Ninh",
+		"code": "2210",
+		"name": "Bắc Ninh",
+		"province_code": "22",
+		"slug_name": "Bac Ninh"
+	},
+	{
+		"description": "Huyện Bắc Quang",
+		"code": "3148",
+		"name": "Bắc Quang",
+		"province_code": "31",
+		"slug_name": "Bac Quang"
+	},
+	{
+		"description": "Huyện Bắc Sơn",
+		"code": "2450",
+		"name": "Bắc Sơn",
+		"province_code": "24",
+		"slug_name": "Bac Son"
+	},
+	{
+		"description": "Huyện Bắc Trà My",
+		"code": "5636",
+		"name": "Bắc Trà My",
+		"province_code": "56",
+		"slug_name": "Bac Tra My"
+	},
+	{
+		"description": "Huyện Bắc Yên",
+		"code": "3643",
+		"name": "Bắc Yên",
+		"province_code": "36",
+		"slug_name": "Bac Yen"
+	},
+	{
+		"description": "Huyện Bắc Tân Uyên",
+		"code": "8260",
+		"name": "Bắc Tân Uyên",
+		"province_code": "82",
+		"slug_name": "Bac Tan Uyen"
+	},
+	{
+		"description": "Quận Bắc Từ Liêm",
+		"code": "1430",
+		"name": "Bắc Từ Liêm",
+		"province_code": "10",
+		"slug_name": "Bac Tu Liem"
+	},
+	{
+		"description": "Thị xã Bến Cát",
+		"code": "8255",
+		"name": "Bến Cát",
+		"province_code": "82",
+		"slug_name": "Ben Cat"
+	},
+	{
+		"description": "Huyện Bố Trạch",
+		"code": "5115",
+		"name": "Bố Trạch",
+		"province_code": "51",
+		"slug_name": "Bo Trach"
+	},
+	{
+		"description": "Huyện Cai Lậy",
+		"code": "8641",
+		"name": "Cai Lậy",
+		"province_code": "86",
+		"slug_name": "Cai Lay"
+	},
+	{
+		"description": "Thị xã Cai Lậy",
+		"code": "8653",
+		"name": "Cai Lậy",
+		"province_code": "86",
+		"slug_name": "Cai Lay"
+	},
+	{
+		"description": "Thành phố Cam Ranh",
+		"code": "6544",
+		"name": "Cam Ranh",
+		"province_code": "65",
+		"slug_name": "Cam Ranh"
+	},
+	{
+		"description": "Huyện Cam Lộ",
+		"code": "5223",
+		"name": "Cam lộ",
+		"province_code": "52",
+		"slug_name": "Cam Lo"
+	},
+	{
+		"description": "Huyện Can Lộc",
+		"code": "4829",
+		"name": "Can Lộc",
+		"province_code": "48",
+		"slug_name": "Can Loc"
+	},
+	{
+		"description": "Thị xã Cao Bằng",
+		"code": "2710",
+		"name": "Cao Bằng",
+		"province_code": "27",
+		"slug_name": "Cao Bang"
+	},
+	{
+		"description": "Huyện Cao Lãnh",
+		"code": "8740",
+		"name": "Cao Lãnh",
+		"province_code": "87",
+		"slug_name": "Cao Lanh"
+	},
+	{
+		"description": "Thành Phố Cao Lãnh",
+		"code": "8710",
+		"name": "Cao Lãnh",
+		"province_code": "87",
+		"slug_name": "Cao Lanh"
+	},
+	{
+		"description": "Huyện Cao Lộc",
+		"code": "2418",
+		"name": "Cao Lộc",
+		"province_code": "24",
+		"slug_name": "Cao Loc"
+	},
+	{
+		"description": "Huyện Cao Phong",
+		"code": "3537",
+		"name": "Cao Phong",
+		"province_code": "35",
+		"slug_name": "Cao Phong"
+	},
+	{
+		"description": "Thành phố Cà Mau",
+		"code": "9710",
+		"name": "Cà Mau",
+		"province_code": "97",
+		"slug_name": "Ca Mau"
+	},
+	{
+		"description": "Huyện Càng Long",
+		"code": "9417",
+		"name": "Càng Long",
+		"province_code": "94",
+		"slug_name": "Cang Long"
+	},
+	{
+		"description": "Huyện Cái Bè",
+		"code": "8647",
+		"name": "Cái Bè",
+		"province_code": "86",
+		"slug_name": "Cai Be"
+	},
+	{
+		"description": "Huyện Cái Nước",
+		"code": "9727",
+		"name": "Cái Nước",
+		"province_code": "97",
+		"slug_name": "Cai Nuoc"
+	},
+	{
+		"description": "Quận Cái Răng",
+		"code": "9036",
+		"name": "Cái Răng",
+		"province_code": "90",
+		"slug_name": "Cai Rang"
+	},
+	{
+		"description": "Huyện Cát Hải",
+		"code": "1873",
+		"name": "Cát Hải",
+		"province_code": "18",
+		"slug_name": "Cat Hai"
+	},
+	{
+		"description": "Huyện Cát Tiên",
+		"code": "6755",
+		"name": "Cát Tiên",
+		"province_code": "67",
+		"slug_name": "Cat Tien"
+	},
+	{
+		"description": "Huyện Chi Lăng",
+		"code": "2456",
+		"name": "Chi Lăng",
+		"province_code": "24",
+		"slug_name": "Chi Lang"
+	},
+	{
+		"description": "Huyện Chiêm Hoá",
+		"code": "3038",
+		"name": "Chiêm Hoá",
+		"province_code": "30",
+		"slug_name": "Chiem Hoa"
+	},
+	{
+		"description": "Thị xã Chí Linh",
+		"code": "1742",
+		"name": "Chí Linh",
+		"province_code": "17",
+		"slug_name": "Chi Linh"
+	},
+	{
+		"description": "Huyện Châu Phú",
+		"code": "8828",
+		"name": "Châu Phú",
+		"province_code": "88",
+		"slug_name": "Chau Phu"
+	},
+	{
+		"description": "Huyện Châu Thành",
+		"code": "9426",
+		"name": "Châu Thành",
+		"province_code": "94",
+		"slug_name": "Chau Thanh"
+	},
+	{
+		"description": "Huyện Châu Thành",
+		"code": "8424",
+		"name": "Châu Thành",
+		"province_code": "84",
+		"slug_name": "Chau Thanh"
+	},
+	{
+		"description": "Huyện Châu Thành",
+		"code": "8518",
+		"name": "Châu Thành",
+		"province_code": "85",
+		"slug_name": "Chau Thanh"
+	},
+	{
+		"description": "Huyện Châu Thành",
+		"code": "8634",
+		"name": "Châu Thành",
+		"province_code": "86",
+		"slug_name": "Chau Thanh"
+	},
+	{
+		"description": "Huyện Châu Thành",
+		"code": "8738",
+		"name": "Châu Thành",
+		"province_code": "87",
+		"slug_name": "Chau Thanh"
+	},
+	{
+		"description": "Huyện Châu Thành",
+		"code": "8822",
+		"name": "Châu Thành",
+		"province_code": "88",
+		"slug_name": "Chau Thanh"
+	},
+	{
+		"description": "Huyện Châu Thành",
+		"code": "9127",
+		"name": "Châu Thành",
+		"province_code": "91",
+		"slug_name": "Chau Thanh"
+	},
+	{
+		"description": "Huyện Châu Thành",
+		"code": "9230",
+		"name": "Châu Thành",
+		"province_code": "92",
+		"slug_name": "Chau Thanh"
+	},
+	{
+		"description": "Huyện Châu Thành",
+		"code": "9313",
+		"name": "Châu Thành",
+		"province_code": "93",
+		"slug_name": "Chau Thanh"
+	},
+	{
+		"description": "Huyện Châu Thành A",
+		"code": "9125",
+		"name": "Châu Thành A",
+		"province_code": "91",
+		"slug_name": "Chau Thanh A"
+	},
+	{
+		"description": "Huyện Châu Thành",
+		"code": "9543",
+		"name": "Châu Thành",
+		"province_code": "95",
+		"slug_name": "Chau Thanh"
+	},
+	{
+		"description": "Thị xã Châu Đốc",
+		"code": "8830",
+		"name": "Châu Đốc",
+		"province_code": "88",
+		"slug_name": "Chau Doc"
+	},
+	{
+		"description": "Huyện Châu Đức",
+		"code": "7953",
+		"name": "Châu Đức",
+		"province_code": "79",
+		"slug_name": "Chau Duc"
+	},
+	{
+		"description": "Huyện Chơn Thành",
+		"code": "8333",
+		"name": "Chơn Thành",
+		"province_code": "83",
+		"slug_name": "Chon Thanh"
+	},
+	{
+		"description": "Huyện Chợ Gạo",
+		"code": "8620",
+		"name": "Chợ Gạo",
+		"province_code": "86",
+		"slug_name": "Cho Gao"
+	},
+	{
+		"description": "Huyện Chợ Lách",
+		"code": "9317",
+		"name": "Chợ Lách",
+		"province_code": "93",
+		"slug_name": "Cho Lach"
+	},
+	{
+		"description": "Huyện Chợ Mới",
+		"code": "2638",
+		"name": "Chợ Mới",
+		"province_code": "26",
+		"slug_name": "Cho Moi"
+	},
+	{
+		"description": "Huyện Chợ Mới",
+		"code": "8816",
+		"name": "Chợ Mới",
+		"province_code": "88",
+		"slug_name": "Cho Moi"
+	},
+	{
+		"description": "Huyện Chợ Đồn",
+		"code": "2632",
+		"name": "Chợ Đồn",
+		"province_code": "26",
+		"slug_name": "Cho Don"
+	},
+	{
+		"description": "Huyện Chư Prông",
+		"code": "6042",
+		"name": "Chư Prông",
+		"province_code": "60",
+		"slug_name": "Chu Prong"
+	},
+	{
+		"description": "Huyện Chư Păh",
+		"code": "6030",
+		"name": "Chư Păh",
+		"province_code": "60",
+		"slug_name": "Chu Pah"
+	},
+	{
+		"description": "Huyện Chư Pưh",
+		"code": "6072",
+		"name": "Chư Pưh",
+		"province_code": "60",
+		"slug_name": "Chu Puh"
+	},
+	{
+		"description": "Huyện Chư Sê",
+		"code": "6047",
+		"name": "Chư Sê",
+		"province_code": "60",
+		"slug_name": "Chu Se"
+	},
+	{
+		"description": "Huyện Chương Mỹ",
+		"code": "1561",
+		"name": "Chương Mỹ",
+		"province_code": "10",
+		"slug_name": "Chuong My"
+	},
+	{
+		"description": "Huyện Con Cuông",
+		"code": "4730",
+		"name": "Con Cuông",
+		"province_code": "46",
+		"slug_name": "Con Cuong"
+	},
+	{
+		"description": "Huyện Cù Lao Dung",
+		"code": "9538",
+		"name": "Cù Lao Dung",
+		"province_code": "95",
+		"slug_name": "Cu Lao Dung"
+	},
+	{
+		"description": "Huyện Củ Chi",
+		"code": "7330",
+		"name": "Củ Chi",
+		"province_code": "70",
+		"slug_name": "Cu Chi"
+	},
+	{
+		"description": "Huyện Cần Giuộc",
+		"code": "8531",
+		"name": "Cần Giuộc",
+		"province_code": "85",
+		"slug_name": "Can Giuoc"
+	},
+	{
+		"description": "Huyện Cần Giờ",
+		"code": "7590",
+		"name": "Cần Giờ",
+		"province_code": "70",
+		"slug_name": "Can Gio"
+	},
+	{
+		"description": "Huyện Cần Đước",
+		"code": "8527",
+		"name": "Cần Đước",
+		"province_code": "85",
+		"slug_name": "Can Duoc"
+	},
+	{
+		"description": "Quận Cầu Giấy",
+		"code": "1220",
+		"name": "Cầu Giấy",
+		"province_code": "10",
+		"slug_name": "Cau Giay"
+	},
+	{
+		"description": "Huyện Cầu Kè",
+		"code": "9421",
+		"name": "Cầu Kè",
+		"province_code": "94",
+		"slug_name": "Cau Ke"
+	},
+	{
+		"description": "Huyện Cầu Ngang",
+		"code": "9435",
+		"name": "Cầu Ngang",
+		"province_code": "94",
+		"slug_name": "Cau Ngang"
+	},
+	{
+		"description": "Huyện Cẩm Giàng",
+		"code": "1747",
+		"name": "Cẩm Giàng",
+		"province_code": "17",
+		"slug_name": "Cam Giang"
+	},
+	{
+		"description": "Huyện Cẩm Khê",
+		"code": "2970",
+		"name": "Cẩm Khê",
+		"province_code": "29",
+		"slug_name": "Cam Khe"
+	},
+	{
+		"description": "Huyện Cẩm Mỹ",
+		"code": "8161",
+		"name": "Cẩm Mỹ",
+		"province_code": "81",
+		"slug_name": "Cam My"
+	},
+	{
+		"description": "Thành phố Cẩm Phả",
+		"code": "2032",
+		"name": "Cẩm Phả",
+		"province_code": "20",
+		"slug_name": "Cam Pha"
+	},
+	{
+		"description": "Huyện Cẩm Thuỷ",
+		"code": "4476",
+		"name": "Cẩm Thuỷ",
+		"province_code": "44",
+		"slug_name": "Cam Thuy"
+	},
+	{
+		"description": "Huyện Cẩm Xuyên",
+		"code": "4876",
+		"name": "Cẩm Xuyên",
+		"province_code": "48",
+		"slug_name": "Cam Xuyen"
+	},
+	{
+		"description": "Huyện Cô Tô",
+		"code": "2055",
+		"name": "Cô Tô",
+		"province_code": "20",
+		"slug_name": "Co To"
+	},
+	{
+		"description": "Huyện Côn Đảo",
+		"code": "7943",
+		"name": "Côn Đảo",
+		"province_code": "79",
+		"slug_name": "Con Dao"
+	},
+	{
+		"description": "Huyện Cờ Đỏ",
+		"code": "9046",
+		"name": "Cờ Đỏ",
+		"province_code": "90",
+		"slug_name": "Co Do"
+	},
+	{
+		"description": "Huyện Cư Jút",
+		"code": "6424",
+		"name": "Cư Jút",
+		"province_code": "64",
+		"slug_name": "Cu Jut"
+	},
+	{
+		"description": "Huyện Cư Kuin",
+		"code": "6380",
+		"name": "Cư Kuin",
+		"province_code": "63",
+		"slug_name": "Cu Kuin"
+	},
+	{
+		"description": "Huyện Cư M'Gar",
+		"code": "6343",
+		"name": "Cư M'Gar",
+		"province_code": "63",
+		"slug_name": "Cu M'gar"
+	},
+	{
+		"description": "Thị xã Cửa Lò",
+		"code": "4624",
+		"name": "Cửa Lò",
+		"province_code": "46",
+		"slug_name": "Cua Lo"
+	},
+	{
+		"description": "Quận Cẩm Lệ",
+		"code": "5574",
+		"name": "Cẩm Lệ",
+		"province_code": "55",
+		"slug_name": "Cam Le"
+	},
+	{
+		"description": "Huyện Cồn Cỏ",
+		"code": "5244",
+		"name": "Cồn Cỏ",
+		"province_code": "52",
+		"slug_name": "Con Co"
+	},
+	{
+		"description": "Huyện Di Linh",
+		"code": "6737",
+		"name": "Di Linh",
+		"province_code": "67",
+		"slug_name": "Di Linh"
+	},
+	{
+		"description": "Huyện Diên Khánh",
+		"code": "6537",
+		"name": "Diên Khánh",
+		"province_code": "65",
+		"slug_name": "Dien Khanh"
+	},
+	{
+		"description": "Huyện Diễn Châu",
+		"code": "4638",
+		"name": "Diễn Châu",
+		"province_code": "46",
+		"slug_name": "Dien Chau"
+	},
+	{
+		"description": "Thị xã Dĩ An",
+		"code": "8246",
+		"name": "Dĩ An",
+		"province_code": "82",
+		"slug_name": "Di An"
+	},
+	{
+		"description": "Huyện Duy Tiên",
+		"code": "4023",
+		"name": "Duy Tiên",
+		"province_code": "40",
+		"slug_name": "Duy Tien"
+	},
+	{
+		"description": "Huyện Duy Xuyên",
+		"code": "5627",
+		"name": "Duy Xuyên",
+		"province_code": "56",
+		"slug_name": "Duy Xuyen"
+	},
+	{
+		"description": "Huyện Duyên Hải",
+		"code": "9439",
+		"name": "Duyên Hải",
+		"province_code": "94",
+		"slug_name": "Duyen Hai"
+	},
+	{
+		"description": "Huyện Dầu Tiếng",
+		"code": "8236",
+		"name": "Dầu Tiếng",
+		"province_code": "82",
+		"slug_name": "Dau Tieng"
+	},
+	{
+		"description": "Quận Dương Kinh",
+		"code": "1883",
+		"name": "Dương Kinh",
+		"province_code": "18",
+		"slug_name": "Duong Kinh"
+	},
+	{
+		"description": "Huyện Dương Minh Châu",
+		"code": "8417",
+		"name": "Dương Minh Châu",
+		"province_code": "84",
+		"slug_name": "Duong Minh Chau"
+	},
+	{
+		"description": "Huyện Ea H'Leo",
+		"code": "6356",
+		"name": "Ea H'Leo",
+		"province_code": "63",
+		"slug_name": "Ea H'leo"
+	},
+	{
+		"description": "Huyện Ea Kar",
+		"code": "6334",
+		"name": "Ea Kar",
+		"province_code": "63",
+		"slug_name": "Ea Kar"
+	},
+	{
+		"description": "Huyện Ea Súp",
+		"code": "6363",
+		"name": "Ea Súp",
+		"province_code": "63",
+		"slug_name": "Ea Sup"
+	},
+	{
+		"description": "Huyện Gia Bình",
+		"code": "2232",
+		"name": "Gia Bình",
+		"province_code": "22",
+		"slug_name": "Gia Binh"
+	},
+	{
+		"description": "Huyện Gia Lâm",
+		"code": "1310",
+		"name": "Gia Lâm",
+		"province_code": "10",
+		"slug_name": "Gia Lam"
+	},
+	{
+		"description": "Huyện Gia Lộc",
+		"code": "1754",
+		"name": "Gia Lộc",
+		"province_code": "17",
+		"slug_name": "Gia Loc"
+	},
+	{
+		"description": "Thị xã Gia Nghĩa",
+		"code": "6410",
+		"name": "Gia Nghĩa",
+		"province_code": "64",
+		"slug_name": "Gia Nghia"
+	},
+	{
+		"description": "Huyện Gia Viễn",
+		"code": "4322",
+		"name": "Gia Viễn",
+		"province_code": "43",
+		"slug_name": "Gia Vien"
+	},
+	{
+		"description": "Huyện Giang Thành",
+		"code": "9248",
+		"name": "Giang Thành",
+		"province_code": "92",
+		"slug_name": "Giang Thanh"
+	},
+	{
+		"description": "Huyện Giao Thuỷ",
+		"code": "4278",
+		"name": "Giao Thuỷ",
+		"province_code": "42",
+		"slug_name": "Giao Thuy"
+	},
+	{
+		"description": "Huyện Giá Rai",
+		"code": "9626",
+		"name": "Giá Rai",
+		"province_code": "96",
+		"slug_name": "Gia Rai"
+	},
+	{
+		"description": "Huyện Gio Linh",
+		"code": "5214",
+		"name": "Gio Linh",
+		"province_code": "52",
+		"slug_name": "Gio Linh"
+	},
+	{
+		"description": "Huyện Giồng Riềng",
+		"code": "9238",
+		"name": "Giồng Riềng",
+		"province_code": "92",
+		"slug_name": "Giong Rieng"
+	},
+	{
+		"description": "Huyện Giồng Trôm",
+		"code": "9326",
+		"name": "Giồng Trôm",
+		"province_code": "93",
+		"slug_name": "Giong Trom"
+	},
+	{
+		"description": "Thị xã Gò Công",
+		"code": "8627",
+		"name": "Gò Công",
+		"province_code": "86",
+		"slug_name": "Go Cong"
+	},
+	{
+		"description": "Huyện Gò Công Tây",
+		"code": "8624",
+		"name": "Gò Công Tây",
+		"province_code": "86",
+		"slug_name": "Go Cong Tay"
+	},
+	{
+		"description": "Huyện Gò Công Đông",
+		"code": "8630",
+		"name": "Gò Công Đông",
+		"province_code": "86",
+		"slug_name": "Go Cong Dong"
+	},
+	{
+		"description": "Huyện Gò Dầu",
+		"code": "8431",
+		"name": "Gò Dầu",
+		"province_code": "84",
+		"slug_name": "Go Dau"
+	},
+	{
+		"description": "Huyện Gò Quao",
+		"code": "9235",
+		"name": "Gò Quao",
+		"province_code": "92",
+		"slug_name": "Go Quao"
+	},
+	{
+		"description": "Quận Gò Vấp",
+		"code": "7270",
+		"name": "Gò Vấp",
+		"province_code": "70",
+		"slug_name": "Go Vap"
+	},
+	{
+		"description": "Quận Hai Bà Trưng",
+		"code": "1120",
+		"name": "Hai Bà Trưng",
+		"province_code": "10",
+		"slug_name": "Hai Ba Trung"
+	},
+	{
+		"description": "Thành phố Hà Giang",
+		"code": "3110",
+		"name": "Hà Giang",
+		"province_code": "31",
+		"slug_name": "Ha Giang"
+	},
+	{
+		"description": "Huyện Hà Quảng",
+		"code": "2746",
+		"name": "Hà Quảng",
+		"province_code": "27",
+		"slug_name": "Ha Quang"
+	},
+	{
+		"description": "Thị xã Hà Tiên",
+		"code": "9220",
+		"name": "Hà Tiên",
+		"province_code": "92",
+		"slug_name": "Ha Tien"
+	},
+	{
+		"description": "Thành phố Hà Tĩnh",
+		"code": "4810",
+		"name": "Hà Tĩnh",
+		"province_code": "48",
+		"slug_name": "Ha Tinh"
+	},
+	{
+		"description": "Huyện Hà Trung",
+		"code": "4444",
+		"name": "Hà Trung",
+		"province_code": "44",
+		"slug_name": "Ha Trung"
+	},
+	{
+		"description": "Quận Hà Đông",
+		"code": "1510",
+		"name": "Hà Đông",
+		"province_code": "10",
+		"slug_name": "Ha Dong"
+	},
+	{
+		"description": "Huyện Hàm Thuận Bắc",
+		"code": "8028",
+		"name": "Hàm Thuận Bắc",
+		"province_code": "80",
+		"slug_name": "Ham Thuan Bac"
+	},
+	{
+		"description": "Huyện Hàm Thuận Nam",
+		"code": "8031",
+		"name": "Hàm Thuận Nam",
+		"province_code": "80",
+		"slug_name": "Ham Thuan Nam"
+	},
+	{
+		"description": "Huyện Hàm Tân",
+		"code": "8040",
+		"name": "Hàm Tân",
+		"province_code": "80",
+		"slug_name": "Ham Tan"
+	},
+	{
+		"description": "Huyện Hàm Yên",
+		"code": "3055",
+		"name": "Hàm Yên",
+		"province_code": "30",
+		"slug_name": "Ham Yen"
+	},
+	{
+		"description": "Quận Hải An",
+		"code": "1875",
+		"name": "Hải An",
+		"province_code": "18",
+		"slug_name": "Hai An"
+	},
+	{
+		"description": "Quận Hải Châu",
+		"code": "5510",
+		"name": "Hải Châu",
+		"province_code": "55",
+		"slug_name": "Hai Chau"
+	},
+	{
+		"description": "Thành phố Hải Dương",
+		"code": "1710",
+		"name": "Hải Dương",
+		"province_code": "17",
+		"slug_name": "Hai Duong"
+	},
+	{
+		"description": "Huyện Hải Hà",
+		"code": "2065",
+		"name": "Hải Hà",
+		"province_code": "20",
+		"slug_name": "Hai Ha"
+	},
+	{
+		"description": "Huyện Hải Hậu",
+		"code": "4282",
+		"name": "Hải Hậu",
+		"province_code": "42",
+		"slug_name": "Hai Hau"
+	},
+	{
+		"description": "Huyện Hải Lăng",
+		"code": "5238",
+		"name": "Hải Lăng",
+		"province_code": "52",
+		"slug_name": "Hai Lang"
+	},
+	{
+		"description": "Huyện Hạ Hoà",
+		"code": "2962",
+		"name": "Hạ Hoà",
+		"province_code": "29",
+		"slug_name": "Ha Hoa"
+	},
+	{
+		"description": "Huyện Hạ Lang",
+		"code": "2722",
+		"name": "Hạ Lang",
+		"province_code": "27",
+		"slug_name": "Ha Lang"
+	},
+	{
+		"description": "Thành phố Hạ Long",
+		"code": "2010",
+		"name": "Hạ Long",
+		"province_code": "20",
+		"slug_name": "Ha Long"
+	},
+	{
+		"description": "Huyện Hiệp Hoà",
+		"code": "2366",
+		"name": "Hiệp Hoà",
+		"province_code": "23",
+		"slug_name": "Hiep Hoa"
+	},
+	{
+		"description": "Huyện Hiệp Đức",
+		"code": "5634",
+		"name": "Hiệp Đức",
+		"province_code": "56",
+		"slug_name": "Hiep Duc"
+	},
+	{
+		"description": "Huyện Hoa Lư",
+		"code": "4319",
+		"name": "Hoa Lư",
+		"province_code": "43",
+		"slug_name": "Hoa Lu"
+	},
+	{
+		"description": "Huyện Hoà An",
+		"code": "2738",
+		"name": "Hoà An",
+		"province_code": "27",
+		"slug_name": "Hoa An"
+	},
+	{
+		"description": "Huyện Hoà Bình",
+		"code": "9632",
+		"name": "Hoà Bình",
+		"province_code": "96",
+		"slug_name": "Hoa Binh"
+	},
+	{
+		"description": "Thành Phố Hoà Bình",
+		"code": "3510",
+		"name": "Hoà Bình",
+		"province_code": "35",
+		"slug_name": "Hoa Binh"
+	},
+	{
+		"description": "Huyện Hoà Thành",
+		"code": "8427",
+		"name": "Hoà Thành",
+		"province_code": "84",
+		"slug_name": "Hoa Thanh"
+	},
+	{
+		"description": "Huyện Hoà Vang",
+		"code": "5564",
+		"name": "Hoà Vang",
+		"province_code": "55",
+		"slug_name": "Hoa Vang"
+	},
+	{
+		"description": "Huyện Hoài Nhơn",
+		"code": "5932",
+		"name": "Hoài Nhơn",
+		"province_code": "59",
+		"slug_name": "Hoai Nhon"
+	},
+	{
+		"description": "Huyện Hoài Ân",
+		"code": "5936",
+		"name": "Hoài Ân",
+		"province_code": "59",
+		"slug_name": "Hoai An"
+	},
+	{
+		"description": "Huyện Hoài Đức",
+		"code": "1529",
+		"name": "Hoài Đức",
+		"province_code": "10",
+		"slug_name": "Hoai Duc"
+	},
+	{
+		"description": "Quận Hoàn Kiếm",
+		"code": "1100",
+		"name": "Hoàn Kiếm",
+		"province_code": "10",
+		"slug_name": "Hoan Kiem"
+	},
+	{
+		"description": "Quận Hoàng Mai",
+		"code": "1270",
+		"name": "Hoàng Mai",
+		"province_code": "10",
+		"slug_name": "Hoang Mai"
+	},
+	{
+		"description": "Huyện Hoàng Su Phì",
+		"code": "3139",
+		"name": "Hoàng Su Phì",
+		"province_code": "31",
+		"slug_name": "Hoang Su Phi"
+	},
+	{
+		"description": "Huyện Hoành Bồ",
+		"code": "2072",
+		"name": "Hoành Bồ",
+		"province_code": "20",
+		"slug_name": "Hoanh Bo"
+	},
+	{
+		"description": "Thị xã Hoàng Mai",
+		"code": "4792",
+		"name": "Hoàng Mai",
+		"province_code": "46",
+		"slug_name": "Hoang Mai"
+	},
+	{
+		"description": "Huyện Hoàng Sa",
+		"code": "5573",
+		"name": "Hoàng Sa",
+		"province_code": "55",
+		"slug_name": "Hoang Sa"
+	},
+	{
+		"description": "Huyện Hoằng Hoá",
+		"code": "4422",
+		"name": "Hoằng Hoá",
+		"province_code": "44",
+		"slug_name": "Hoang Hoa"
+	},
+	{
+		"description": "Huyện Hòn Đất",
+		"code": "9216",
+		"name": "Hòn Đất",
+		"province_code": "92",
+		"slug_name": "Hon Dat"
+	},
+	{
+		"description": "Huyện Hóc Môn",
+		"code": "7310",
+		"name": "Hóc Môn",
+		"province_code": "70",
+		"slug_name": "Hoc Mon"
+	},
+	{
+		"description": "Huyện Hồng Ngự",
+		"code": "8744",
+		"name": "Huyện Hồng Ngự",
+		"province_code": "87",
+		"slug_name": "Huyen Hong Ngu"
+	},
+	{
+		"description": "Huyện Kỳ Anh",
+		"code": "4884",
+		"name": "Huyện Kỳ Anh",
+		"province_code": "48",
+		"slug_name": "Huyen Ky Anh"
+	},
+	{
+		"description": "Huyện Long Mỹ",
+		"code": "9133",
+		"name": "Huyện Long Mỹ",
+		"province_code": "91",
+		"slug_name": "Huyen Long My"
+	},
+	{
+		"description": "Thành phố Huế",
+		"code": "5310",
+		"name": "Huế",
+		"province_code": "53",
+		"slug_name": "Hue"
+	},
+	{
+		"description": "Huyện Hậu Lộc",
+		"code": "4431",
+		"name": "Hậu Lộc",
+		"province_code": "44",
+		"slug_name": "Hau Loc"
+	},
+	{
+		"description": "Quận Hồng Bàng",
+		"code": "1810",
+		"name": "Hồng Bàng",
+		"province_code": "18",
+		"slug_name": "Hong Bang"
+	},
+	{
+		"description": "Huyện Hồng Dân",
+		"code": "9624",
+		"name": "Hồng Dân",
+		"province_code": "96",
+		"slug_name": "Hong Dan"
+	},
+	{
+		"description": "Thị xã Hồng Lĩnh",
+		"code": "4837",
+		"name": "Hồng Lĩnh",
+		"province_code": "48",
+		"slug_name": "Hong Linh"
+	},
+	{
+		"description": "Thành Phố Hội An",
+		"code": "5638",
+		"name": "Hội An",
+		"province_code": "56",
+		"slug_name": "Hoi An"
+	},
+	{
+		"description": "Huyện Hưng Hà",
+		"code": "4142",
+		"name": "Hưng Hà",
+		"province_code": "41",
+		"slug_name": "Hung Ha"
+	},
+	{
+		"description": "Huyện Hưng Nguyên",
+		"code": "4743",
+		"name": "Hưng Nguyên",
+		"province_code": "46",
+		"slug_name": "Hung Nguyen"
+	},
+	{
+		"description": "Thành Phố Hưng Yên",
+		"code": "1610",
+		"name": "Hưng Yên",
+		"province_code": "16",
+		"slug_name": "Hung Yen"
+	},
+	{
+		"description": "Huyện Hương Khê",
+		"code": "4869",
+		"name": "Hương Khê",
+		"province_code": "48",
+		"slug_name": "Huong Khe"
+	},
+	{
+		"description": "Huyện Hương Sơn",
+		"code": "4856",
+		"name": "Hương Sơn",
+		"province_code": "48",
+		"slug_name": "Huong Son"
+	},
+	{
+		"description": "Thị xã Hương Thuỷ",
+		"code": "5361",
+		"name": "Hương Thuỷ",
+		"province_code": "53",
+		"slug_name": "Huong Thuy"
+	},
+	{
+		"description": "Huyện Hương Trà",
+		"code": "5353",
+		"name": "Hương Trà",
+		"province_code": "53",
+		"slug_name": "Huong Tra"
+	},
+	{
+		"description": "Huyện Hướng Hoá",
+		"code": "5226",
+		"name": "Hướng Hoá",
+		"province_code": "52",
+		"slug_name": "Huong Hoa"
+	},
+	{
+		"description": "Huyện Hữu Lũng",
+		"code": "2461",
+		"name": "Hữu Lũng",
+		"province_code": "24",
+		"slug_name": "Huu Lung"
+	},
+	{
+		"description": "Huyện Hớn Quản",
+		"code": "8329",
+		"name": "Hớn Quản",
+		"province_code": "83",
+		"slug_name": "Hon Quan"
+	},
+	{
+		"description": "Huyện Ia Grai",
+		"code": "6034",
+		"name": "Ia Grai",
+		"province_code": "60",
+		"slug_name": "Ia Grai"
+	},
+	{
+		"description": "Huyện Ia H'Drai",
+		"code": "5843",
+		"name": "Ia H'Drai",
+		"province_code": "58",
+		"slug_name": "Ia H'drai"
+	},
+	{
+		"description": "Huyện Ia Pa",
+		"code": "6066",
+		"name": "Ia Pa",
+		"province_code": "60",
+		"slug_name": "Ia Pa"
+	},
+	{
+		"description": "Huyện K'Bang",
+		"code": "6026",
+		"name": "K'Bang",
+		"province_code": "60",
+		"slug_name": "K'bang"
+	},
+	{
+		"description": "Huyện Khánh Sơn",
+		"code": "6542",
+		"name": "Khánh Sơn",
+		"province_code": "65",
+		"slug_name": "Khanh Son"
+	},
+	{
+		"description": "Huyện Khánh Vĩnh",
+		"code": "6540",
+		"name": "Khánh Vĩnh",
+		"province_code": "65",
+		"slug_name": "Khanh Vinh"
+	},
+	{
+		"description": "Huyện Khoái Châu",
+		"code": "1625",
+		"name": "Khoái Châu",
+		"province_code": "16",
+		"slug_name": "Khoai Chau"
+	},
+	{
+		"description": "Huyện Kim Bảng",
+		"code": "4027",
+		"name": "Kim Bảng",
+		"province_code": "40",
+		"slug_name": "Kim Bang"
+	},
+	{
+		"description": "Huyện Kim Bôi",
+		"code": "3551",
+		"name": "Kim Bôi",
+		"province_code": "35",
+		"slug_name": "Kim Boi"
+	},
+	{
+		"description": "Huyện Kim Sơn",
+		"code": "4339",
+		"name": "Kim Sơn",
+		"province_code": "43",
+		"slug_name": "Kim Son"
+	},
+	{
+		"description": "Huyện Kim Thành",
+		"code": "1731",
+		"name": "Kim Thành",
+		"province_code": "17",
+		"slug_name": "Kim Thanh"
+	},
+	{
+		"description": "Huyện Kim Động",
+		"code": "1622",
+		"name": "Kim Động",
+		"province_code": "16",
+		"slug_name": "Kim Dong"
+	},
+	{
+		"description": "Huyện Kinh Môn",
+		"code": "1738",
+		"name": "Kinh Môn",
+		"province_code": "17",
+		"slug_name": "Kinh Mon"
+	},
+	{
+		"description": "Huyện Kiên Hải",
+		"code": "9241",
+		"name": "Kiên Hải",
+		"province_code": "92",
+		"slug_name": "Kien Hai"
+	},
+	{
+		"description": "Huyện Kiên Lương",
+		"code": "9218",
+		"name": "Kiên Lương",
+		"province_code": "92",
+		"slug_name": "Kien Luong"
+	},
+	{
+		"description": "Quận Kiến An",
+		"code": "1851",
+		"name": "Kiến An",
+		"province_code": "18",
+		"slug_name": "Kien An"
+	},
+	{
+		"description": "Huyện Kiến Thuỵ",
+		"code": "1867",
+		"name": "Kiến Thuỵ",
+		"province_code": "18",
+		"slug_name": "Kien Thuy"
+	},
+	{
+		"description": "Huyện Kiến Xương",
+		"code": "4155",
+		"name": "Kiến Xương",
+		"province_code": "41",
+		"slug_name": "Kien Xuong"
+	},
+	{
+		"description": "Thị xã Kiến Tường",
+		"code": "8556",
+		"name": "Kiến Tường",
+		"province_code": "85",
+		"slug_name": "Kien Tuong"
+	},
+	{
+		"description": "Huyện Kon Plông",
+		"code": "5820",
+		"name": "Kon PLông",
+		"province_code": "58",
+		"slug_name": "Kon Plong"
+	},
+	{
+		"description": "Huyện Kon Rẫy",
+		"code": "5818",
+		"name": "Kon Rẫy",
+		"province_code": "58",
+		"slug_name": "Kon Ray"
+	},
+	{
+		"description": "Thành Phố Kon Tum",
+		"code": "5810",
+		"name": "Kon Tum",
+		"province_code": "58",
+		"slug_name": "Kon Tum"
+	},
+	{
+		"description": "Huyện Krông ANa",
+		"code": "6366",
+		"name": "Krông ANa",
+		"province_code": "63",
+		"slug_name": "Krong Ana"
+	},
+	{
+		"description": "Huyện Krông Búk",
+		"code": "6347",
+		"name": "Krông Búk",
+		"province_code": "63",
+		"slug_name": "Krong Buk"
+	},
+	{
+		"description": "Huyện Krông Bông",
+		"code": "6370",
+		"name": "Krông Bông",
+		"province_code": "63",
+		"slug_name": "Krong Bong"
+	},
+	{
+		"description": "Huyện Krông Nô",
+		"code": "6421",
+		"name": "Krông Nô",
+		"province_code": "64",
+		"slug_name": "Krong No"
+	},
+	{
+		"description": "Huyện Krông Năng",
+		"code": "6352",
+		"name": "Krông Năng",
+		"province_code": "63",
+		"slug_name": "Krong Nang"
+	},
+	{
+		"description": "Huyện Krông Pa",
+		"code": "6060",
+		"name": "Krông Pa",
+		"province_code": "60",
+		"slug_name": "Krong Pa"
+	},
+	{
+		"description": "Huyện Krông Pắk",
+		"code": "6327",
+		"name": "Krông Pắk",
+		"province_code": "63",
+		"slug_name": "Krong Pak"
+	},
+	{
+		"description": "Huyện Kỳ Sơn",
+		"code": "4738",
+		"name": "Kỳ Sơn",
+		"province_code": "46",
+		"slug_name": "Ky Son"
+	},
+	{
+		"description": "Huyện Kỳ Sơn",
+		"code": "3515",
+		"name": "Kỳ Sơn",
+		"province_code": "35",
+		"slug_name": "Ky Son"
+	},
+	{
+		"description": "Huyện Kế Sách",
+		"code": "9520",
+		"name": "Kế Sách",
+		"province_code": "95",
+		"slug_name": "Ke Sach"
+	},
+	{
+		"description": "Huyện Kông Chro",
+		"code": "6057",
+		"name": "Kông Chro",
+		"province_code": "60",
+		"slug_name": "Kong Chro"
+	},
+	{
+		"description": "Thị xã La Gi",
+		"code": "8046",
+		"name": "La Gi",
+		"province_code": "80",
+		"slug_name": "La Gi"
+	},
+	{
+		"description": "Thành phố Lai Châu",
+		"code": "3910",
+		"name": "Lai Châu",
+		"province_code": "39",
+		"slug_name": "Lai Chau"
+	},
+	{
+		"description": "Huyện Lai Vung",
+		"code": "8728",
+		"name": "Lai Vung",
+		"province_code": "87",
+		"slug_name": "Lai Vung"
+	},
+	{
+		"description": "Huyện Lang Chánh",
+		"code": "4523",
+		"name": "Lang Chánh",
+		"province_code": "44",
+		"slug_name": "Lang Chanh"
+	},
+	{
+		"description": "Thành phố Lào Cai",
+		"code": "3334",
+		"name": "Lào Cai",
+		"province_code": "33",
+		"slug_name": "Lao Cai"
+	},
+	{
+		"description": "Huyện Lạc Dương",
+		"code": "6727",
+		"name": "Lạc Dương",
+		"province_code": "67",
+		"slug_name": "Lac Duong"
+	},
+	{
+		"description": "Huyện Lạc Sơn",
+		"code": "3539",
+		"name": "Lạc Sơn",
+		"province_code": "35",
+		"slug_name": "Lac Son"
+	},
+	{
+		"description": "Huyện Lạc Thuỷ",
+		"code": "3558",
+		"name": "Lạc Thuỷ",
+		"province_code": "35",
+		"slug_name": "Lac Thuy"
+	},
+	{
+		"description": "Huyện Lạng Giang",
+		"code": "2340",
+		"name": "Lạng Giang",
+		"province_code": "23",
+		"slug_name": "Lang Giang"
+	},
+	{
+		"description": "Thành phố Lạng Sơn",
+		"code": "2410",
+		"name": "Lạng Sơn",
+		"province_code": "24",
+		"slug_name": "Lang Son"
+	},
+	{
+		"description": "Quận Liên Chiểu",
+		"code": "5557",
+		"name": "Liên Chiểu",
+		"province_code": "55",
+		"slug_name": "Lien Chieu"
+	},
+	{
+		"description": "Quận Long Biên",
+		"code": "1250",
+		"name": "Long Biên",
+		"province_code": "10",
+		"slug_name": "Long Bien"
+	},
+	{
+		"description": "Huyện Long Hồ",
+		"code": "8913",
+		"name": "Long Hồ",
+		"province_code": "89",
+		"slug_name": "Long Ho"
+	},
+	{
+		"description": "Thị xã Long Khánh",
+		"code": "8132",
+		"name": "Long Khánh",
+		"province_code": "81",
+		"slug_name": "Long Khanh"
+	},
+	{
+		"description": "Huyện Long Phú",
+		"code": "9517",
+		"name": "Long Phú",
+		"province_code": "95",
+		"slug_name": "Long Phu"
+	},
+	{
+		"description": "Huyện Long Thành",
+		"code": "8153",
+		"name": "Long Thành",
+		"province_code": "81",
+		"slug_name": "Long Thanh"
+	},
+	{
+		"description": "Thành phố Long Xuyên",
+		"code": "8810",
+		"name": "Long xuyên",
+		"province_code": "88",
+		"slug_name": "Long Xuyen"
+	},
+	{
+		"description": "Huyện Long Điền",
+		"code": "7944",
+		"name": "Long Điền",
+		"province_code": "79",
+		"slug_name": "Long Dien"
+	},
+	{
+		"description": "Huyện Lục Nam",
+		"code": "2318",
+		"name": "Lục Nam",
+		"province_code": "23",
+		"slug_name": "Luc Nam"
+	},
+	{
+		"description": "Huyện Lục Ngạn",
+		"code": "2330",
+		"name": "Lục Ngạn",
+		"province_code": "23",
+		"slug_name": "Luc Ngan"
+	},
+	{
+		"description": "Huyện Lục Yên",
+		"code": "3226",
+		"name": "Lục Yên",
+		"province_code": "32",
+		"slug_name": "Luc Yen"
+	},
+	{
+		"description": "Huyện Lý Nhân",
+		"code": "4015",
+		"name": "Lý Nhân",
+		"province_code": "40",
+		"slug_name": "Ly Nhan"
+	},
+	{
+		"description": "Huyện Lý Sơn",
+		"code": "5714",
+		"name": "Lý Sơn",
+		"province_code": "57",
+		"slug_name": "Ly Son"
+	},
+	{
+		"description": "Huyện Lâm Bình",
+		"code": "3063",
+		"name": "Lâm Bình",
+		"province_code": "30",
+		"slug_name": "Lam Binh"
+	},
+	{
+		"description": "Huyện Lâm Hà",
+		"code": "6728",
+		"name": "Lâm Hà",
+		"province_code": "67",
+		"slug_name": "Lam Ha"
+	},
+	{
+		"description": "Huyện Lâm Thao",
+		"code": "2929",
+		"name": "Lâm Thao",
+		"province_code": "29",
+		"slug_name": "Lam Thao"
+	},
+	{
+		"description": "Huyện Lấp Vò",
+		"code": "8726",
+		"name": "Lấp Vò",
+		"province_code": "87",
+		"slug_name": "Lap Vo"
+	},
+	{
+		"description": "Huyện Lập Thạch",
+		"code": "2818",
+		"name": "Lập Thạch",
+		"province_code": "28",
+		"slug_name": "Lap Thach"
+	},
+	{
+		"description": "Quận Lê Chân",
+		"code": "1836",
+		"name": "Lê Chân",
+		"province_code": "18",
+		"slug_name": "Le Chan"
+	},
+	{
+		"description": "Huyện Lệ Thủy",
+		"code": "5139",
+		"name": "Lệ Thủy",
+		"province_code": "51",
+		"slug_name": "Le Thuy"
+	},
+	{
+		"description": "Huyện Lộc Bình",
+		"code": "2468",
+		"name": "Lộc Bình",
+		"province_code": "24",
+		"slug_name": "Loc Binh"
+	},
+	{
+		"description": "Huyện Lộc Hà",
+		"code": "4891",
+		"name": "Lộc Hà",
+		"province_code": "48",
+		"slug_name": "Loc Ha"
+	},
+	{
+		"description": "Huyện Lộc Ninh",
+		"code": "8325",
+		"name": "Lộc Ninh",
+		"province_code": "83",
+		"slug_name": "Loc Ninh"
+	},
+	{
+		"description": "Huyện Lắk",
+		"code": "6374",
+		"name": "Lắk",
+		"province_code": "63",
+		"slug_name": "Lak"
+	},
+	{
+		"description": "Huyện Lương Sơn",
+		"code": "3517",
+		"name": "Lương Sơn",
+		"province_code": "35",
+		"slug_name": "Luong Son"
+	},
+	{
+		"description": "Huyện Lương Tài",
+		"code": "2235",
+		"name": "Lương Tài",
+		"province_code": "22",
+		"slug_name": "Luong Tai"
+	},
+	{
+		"description": "Huyện M'Đrắk",
+		"code": "6339",
+		"name": "M'Đrắk",
+		"province_code": "63",
+		"slug_name": "M'drak"
+	},
+	{
+		"description": "Huyện Mai Châu",
+		"code": "3533",
+		"name": "Mai Châu",
+		"province_code": "35",
+		"slug_name": "Mai Chau"
+	},
+	{
+		"description": "Huyện Mai Sơn",
+		"code": "3615",
+		"name": "Mai Sơn",
+		"province_code": "36",
+		"slug_name": "Mai Son"
+	},
+	{
+		"description": "Huyện Mang Thít",
+		"code": "8934",
+		"name": "Mang Thít",
+		"province_code": "89",
+		"slug_name": "Mang Thit"
+	},
+	{
+		"description": "Huyện Mang Yang",
+		"code": "6021",
+		"name": "Mang Yang",
+		"province_code": "60",
+		"slug_name": "Mang Yang"
+	},
+	{
+		"description": "Huyện Mèo Vạc",
+		"code": "3121",
+		"name": "Mèo Vạc",
+		"province_code": "31",
+		"slug_name": "Meo Vac"
+	},
+	{
+		"description": "Huyện Minh Hóa",
+		"code": "5132",
+		"name": "Minh Hóa",
+		"province_code": "51",
+		"slug_name": "Minh Hoa"
+	},
+	{
+		"description": "Huyện Minh Long",
+		"code": "5731",
+		"name": "Minh Long",
+		"province_code": "57",
+		"slug_name": "Minh Long"
+	},
+	{
+		"description": "Thành Phố Móng Cái",
+		"code": "2068",
+		"name": "Móng Cái",
+		"province_code": "20",
+		"slug_name": "Mong Cai"
+	},
+	{
+		"description": "Huyện Mỏ Cày",
+		"code": "9320",
+		"name": "Mỏ Cày",
+		"province_code": "93",
+		"slug_name": "Mo Cay"
+	},
+	{
+		"description": "Huyện Mù Căng Chải",
+		"code": "3261",
+		"name": "Mù Căng Chải",
+		"province_code": "32",
+		"slug_name": "Mu Cang Chai"
+	},
+	{
+		"description": "Huyện Mỹ Hào",
+		"code": "1632",
+		"name": "Mỹ Hào",
+		"province_code": "16",
+		"slug_name": "My Hao"
+	},
+	{
+		"description": "Huyện Mỹ Lộc",
+		"code": "4239",
+		"name": "Mỹ Lộc",
+		"province_code": "42",
+		"slug_name": "My Loc"
+	},
+	{
+		"description": "Thành phố Mỹ Tho",
+		"code": "8610",
+		"name": "Mỹ Tho",
+		"province_code": "86",
+		"slug_name": "My Tho"
+	},
+	{
+		"description": "Huyện Mỹ Tú",
+		"code": "9523",
+		"name": "Mỹ Tú",
+		"province_code": "95",
+		"slug_name": "My Tu"
+	},
+	{
+		"description": "Huyện Mỹ Xuyên",
+		"code": "9530",
+		"name": "Mỹ Xuyên",
+		"province_code": "95",
+		"slug_name": "My Xuyen"
+	},
+	{
+		"description": "Huyện Mỹ Đức",
+		"code": "1576",
+		"name": "Mỹ Đức",
+		"province_code": "10",
+		"slug_name": "My Duc"
+	},
+	{
+		"description": "Huyện Mê Linh",
+		"code": "1420",
+		"name": "Mê Linh",
+		"province_code": "10",
+		"slug_name": "Me Linh"
+	},
+	{
+		"description": "Huyện Mộ Đức",
+		"code": "5738",
+		"name": "Mộ Đức",
+		"province_code": "57",
+		"slug_name": "Mo Duc"
+	},
+	{
+		"description": "Huyện Mộc Châu",
+		"code": "3628",
+		"name": "Mộc Châu",
+		"province_code": "36",
+		"slug_name": "Moc Chau"
+	},
+	{
+		"description": "Huyện Mộc Hoá",
+		"code": "8548",
+		"name": "Mộc Hoá",
+		"province_code": "85",
+		"slug_name": "Moc Hoa"
+	},
+	{
+		"description": "Huyện Mường Chà",
+		"code": "3833",
+		"name": "Mường Chà",
+		"province_code": "38",
+		"slug_name": "Muong Cha"
+	},
+	{
+		"description": "Huyện Mường Khương",
+		"code": "3319",
+		"name": "Mường Khương",
+		"province_code": "33",
+		"slug_name": "Muong Khuong"
+	},
+	{
+		"description": "Huyện Mường La",
+		"code": "3647",
+		"name": "Mường La",
+		"province_code": "36",
+		"slug_name": "Muong La"
+	},
+	{
+		"description": "Thị xã Mường Lay",
+		"code": "3839",
+		"name": "Mường Lay",
+		"province_code": "38",
+		"slug_name": "Muong Lay"
+	},
+	{
+		"description": "Huyện Mường Lát",
+		"code": "4532",
+		"name": "Mường Lát",
+		"province_code": "44",
+		"slug_name": "Muong Lat"
+	},
+	{
+		"description": "Huyện Mường Nhé",
+		"code": "3840",
+		"name": "Mường Nhé",
+		"province_code": "38",
+		"slug_name": "Muong Nhe"
+	},
+	{
+		"description": "Huyện Mường Tè",
+		"code": "3919",
+		"name": "Mường Tè",
+		"province_code": "39",
+		"slug_name": "Muong Te"
+	},
+	{
+		"description": "Huyện Mường Ảng",
+		"code": "3848",
+		"name": "Mường Ảng",
+		"province_code": "38",
+		"slug_name": "Muong Ang"
+	},
+	{
+		"description": "Huyện Mỏ Cày Bắc",
+		"code": "9340",
+		"name": "Mỏ Cày Bắc",
+		"province_code": "93",
+		"slug_name": "Mo Cay Bac"
+	},
+	{
+		"description": "Huyện Na Hang",
+		"code": "3048",
+		"name": "Na Hang",
+		"province_code": "30",
+		"slug_name": "Na Hang"
+	},
+	{
+		"description": "Huyện Na Rì",
+		"code": "2613",
+		"name": "Na Rì",
+		"province_code": "26",
+		"slug_name": "Na Ri"
+	},
+	{
+		"description": "Huyện Nam Giang",
+		"code": "5660",
+		"name": "Nam Giang",
+		"province_code": "56",
+		"slug_name": "Nam Giang"
+	},
+	{
+		"description": "Huyện Nam Sách",
+		"code": "1734",
+		"name": "Nam Sách",
+		"province_code": "17",
+		"slug_name": "Nam Sach"
+	},
+	{
+		"description": "Huyện Nam Trà My",
+		"code": "5653",
+		"name": "Nam Trà My",
+		"province_code": "56",
+		"slug_name": "Nam Tra My"
+	},
+	{
+		"description": "Huyện Nam Trực",
+		"code": "4246",
+		"name": "Nam Trực",
+		"province_code": "42",
+		"slug_name": "Nam Truc"
+	},
+	{
+		"description": "Quận Nam Từ Liêm",
+		"code": "1290",
+		"name": "Nam Từ Liêm",
+		"province_code": "10",
+		"slug_name": "Nam Tu Liem"
+	},
+	{
+		"description": "Huyện Nam Đàn",
+		"code": "4749",
+		"name": "Nam Đàn",
+		"province_code": "46",
+		"slug_name": "Nam Dan"
+	},
+	{
+		"description": "Thành phố Nam Định",
+		"code": "4210",
+		"name": "Nam Định",
+		"province_code": "42",
+		"slug_name": "Nam Dinh"
+	},
+	{
+		"description": "Huyện Nam Đông",
+		"code": "5364",
+		"name": "Nam Đông",
+		"province_code": "53",
+		"slug_name": "Nam Dong"
+	},
+	{
+		"description": "Huyện Nga Sơn",
+		"code": "4437",
+		"name": "Nga Sơn",
+		"province_code": "44",
+		"slug_name": "Nga Son"
+	},
+	{
+		"description": "Huyện Ngã Năm",
+		"code": "9540",
+		"name": "Ngã Năm",
+		"province_code": "95",
+		"slug_name": "Nga Nam"
+	},
+	{
+		"description": "Huyện Nghi Lộc",
+		"code": "4626",
+		"name": "Nghi Lộc",
+		"province_code": "46",
+		"slug_name": "Nghi Loc"
+	},
+	{
+		"description": "Huyện Nghi Xuân",
+		"code": "4844",
+		"name": "Nghi Xuân",
+		"province_code": "48",
+		"slug_name": "Nghi Xuan"
+	},
+	{
+		"description": "Huyện Nghĩa Hành",
+		"code": "5729",
+		"name": "Nghĩa Hành",
+		"province_code": "57",
+		"slug_name": "Nghia Hanh"
+	},
+	{
+		"description": "Huyện Nghĩa Hưng",
+		"code": "4265",
+		"name": "Nghĩa Hưng",
+		"province_code": "42",
+		"slug_name": "Nghia Hung"
+	},
+	{
+		"description": "Thị xã Nghĩa Lộ",
+		"code": "3256",
+		"name": "Nghĩa Lộ",
+		"province_code": "32",
+		"slug_name": "Nghia Lo"
+	},
+	{
+		"description": "Huyện Nghĩa Đàn",
+		"code": "4674",
+		"name": "Nghĩa Đàn",
+		"province_code": "46",
+		"slug_name": "Nghia Dan"
+	},
+	{
+		"description": "Huyện Ngọc Hiển",
+		"code": "9734",
+		"name": "Ngọc Hiển",
+		"province_code": "97",
+		"slug_name": "Ngoc Hien"
+	},
+	{
+		"description": "Huyện Ngọc Hồi",
+		"code": "5830",
+		"name": "Ngọc Hồi",
+		"province_code": "58",
+		"slug_name": "Ngoc Hoi"
+	},
+	{
+		"description": "Huyện Ngọc Lặc",
+		"code": "4516",
+		"name": "Ngọc Lặc",
+		"province_code": "44",
+		"slug_name": "Ngoc Lac"
+	},
+	{
+		"description": "Huyện Nguyên Bình",
+		"code": "2756",
+		"name": "Nguyên Bình",
+		"province_code": "27",
+		"slug_name": "Nguyen Binh"
+	},
+	{
+		"description": "Quận Ngũ Hành Sơn",
+		"code": "5568",
+		"name": "Ngũ Hành Sơn",
+		"province_code": "55",
+		"slug_name": "Ngu Hanh Son"
+	},
+	{
+		"description": "Huyện Ngân Sơn",
+		"code": "2623",
+		"name": "Ngân Sơn",
+		"province_code": "26",
+		"slug_name": "Ngan Son"
+	},
+	{
+		"description": "Thị xã Ngã Bảy",
+		"code": "9129",
+		"name": "Ngã Bảy",
+		"province_code": "91",
+		"slug_name": "Nga Bay"
+	},
+	{
+		"description": "Quận Ngô Quyền",
+		"code": "1818",
+		"name": "Ngô Quyền",
+		"province_code": "18",
+		"slug_name": "Ngo Quyen"
+	},
+	{
+		"description": "Thành phố Nha Trang",
+		"code": "6510",
+		"name": "Nha Trang",
+		"province_code": "65",
+		"slug_name": "Nha Trang"
+	},
+	{
+		"description": "Huyện Nho Quan",
+		"code": "4326",
+		"name": "Nho Quan",
+		"province_code": "43",
+		"slug_name": "Nho Quan"
+	},
+	{
+		"description": "Huyện Nhà Bè",
+		"code": "7580",
+		"name": "Nhà Bè",
+		"province_code": "70",
+		"slug_name": "Nha Be"
+	},
+	{
+		"description": "Huyện Nhơn Trạch",
+		"code": "8158",
+		"name": "Nhơn Trạch",
+		"province_code": "81",
+		"slug_name": "Nhon Trach"
+	},
+	{
+		"description": "Huyện Như Thanh",
+		"code": "4546",
+		"name": "Như Thanh",
+		"province_code": "44",
+		"slug_name": "Nhu Thanh"
+	},
+	{
+		"description": "Huyện Như Xuân",
+		"code": "4551",
+		"name": "Như Xuân",
+		"province_code": "44",
+		"slug_name": "Nhu Xuan"
+	},
+	{
+		"description": "Thành phố Ninh Bình",
+		"code": "4310",
+		"name": "Ninh Bình",
+		"province_code": "43",
+		"slug_name": "Ninh Binh"
+	},
+	{
+		"description": "Huyện Ninh Giang",
+		"code": "1761",
+		"name": "Ninh Giang",
+		"province_code": "17",
+		"slug_name": "Ninh Giang"
+	},
+	{
+		"description": "Huyện Ninh Hải",
+		"code": "6626",
+		"name": "Ninh Hải",
+		"province_code": "66",
+		"slug_name": "Ninh Hai"
+	},
+	{
+		"description": "Thị xã Ninh Hoà",
+		"code": "6529",
+		"name": "Ninh Hòa",
+		"province_code": "65",
+		"slug_name": "Ninh Hoa"
+	},
+	{
+		"description": "Quận Ninh Kiều",
+		"code": "9010",
+		"name": "Ninh Kiều",
+		"province_code": "90",
+		"slug_name": "Ninh Kieu"
+	},
+	{
+		"description": "Huyện Ninh Phước",
+		"code": "6633",
+		"name": "Ninh Phước",
+		"province_code": "66",
+		"slug_name": "Ninh Phuoc"
+	},
+	{
+		"description": "Huyện Ninh Sơn",
+		"code": "6631",
+		"name": "Ninh Sơn",
+		"province_code": "66",
+		"slug_name": "Ninh Son"
+	},
+	{
+		"description": "Huyện Núi Thành",
+		"code": "5623",
+		"name": "Núi Thành",
+		"province_code": "56",
+		"slug_name": "Nui Thanh"
+	},
+	{
+		"description": "Huyện Nông Cống",
+		"code": "4538",
+		"name": "Nông Cống",
+		"province_code": "44",
+		"slug_name": "Nong Cong"
+	},
+	{
+		"description": "Huyện Nông Sơn",
+		"code": "5667",
+		"name": "Nông Sơn",
+		"province_code": "56",
+		"slug_name": "Nong Son"
+	},
+	{
+		"description": "Huyện Năm Căn",
+		"code": "9739",
+		"name": "Năm Căn",
+		"province_code": "97",
+		"slug_name": "Nam Can"
+	},
+	{
+		"description": "Huyện Nậm Nhùn",
+		"code": "3940",
+		"name": "Nậm Nhùn",
+		"province_code": "39",
+		"slug_name": "Nam Nhun"
+	},
+	{
+		"description": "Huyện Nậm Pồ",
+		"code": "3853",
+		"name": "Nậm Pồ",
+		"province_code": "38",
+		"slug_name": "Nam Po"
+	},
+	{
+		"description": "Huyện Pác Nặm",
+		"code": "2643",
+		"name": "Pác Nặm",
+		"province_code": "26",
+		"slug_name": "Pac Nam"
+	},
+	{
+		"description": "Thành phố Phan Rang Tháp Chàm",
+		"code": "6610",
+		"name": "Phan Rang Tháp Chàm",
+		"province_code": "66",
+		"slug_name": "Phan Rang Thap Cham"
+	},
+	{
+		"description": "Thành phố Phan Thiết",
+		"code": "8010",
+		"name": "Phan Thiết",
+		"province_code": "80",
+		"slug_name": "Phan Thiet"
+	},
+	{
+		"description": "Huyện Phong Thổ",
+		"code": "3915",
+		"name": "Phong Thổ",
+		"province_code": "39",
+		"slug_name": "Phong Tho"
+	},
+	{
+		"description": "Huyện Phong Điền",
+		"code": "9044",
+		"name": "Phong Điền",
+		"province_code": "90",
+		"slug_name": "Phong Dien"
+	},
+	{
+		"description": "Huyện Phong Điền",
+		"code": "5349",
+		"name": "Phong Điền",
+		"province_code": "53",
+		"slug_name": "Phong Dien"
+	},
+	{
+		"description": "Huyện Phù Cát",
+		"code": "5924",
+		"name": "Phù Cát",
+		"province_code": "59",
+		"slug_name": "Phu Cat"
+	},
+	{
+		"description": "Huyện Phù Cừ",
+		"code": "1616",
+		"name": "Phù Cừ",
+		"province_code": "16",
+		"slug_name": "Phu Cu"
+	},
+	{
+		"description": "Huyện Phù Mỹ",
+		"code": "5928",
+		"name": "Phù Mỹ",
+		"province_code": "59",
+		"slug_name": "Phu My"
+	},
+	{
+		"description": "Huyện Phù Ninh",
+		"code": "2923",
+		"name": "Phù Ninh",
+		"province_code": "29",
+		"slug_name": "Phu Ninh"
+	},
+	{
+		"description": "Huyện Phù Yên",
+		"code": "3636",
+		"name": "Phù Yên",
+		"province_code": "36",
+		"slug_name": "Phu Yen"
+	},
+	{
+		"description": "Huyện Phú Bình",
+		"code": "2575",
+		"name": "Phú Bình",
+		"province_code": "25",
+		"slug_name": "Phu Binh"
+	},
+	{
+		"description": "Huyện Phú Giáo",
+		"code": "8228",
+		"name": "Phú Giáo",
+		"province_code": "82",
+		"slug_name": "Phu Giao"
+	},
+	{
+		"description": "Huyện Phú Hòa",
+		"code": "6234",
+		"name": "Phú Hòa",
+		"province_code": "62",
+		"slug_name": "Phu Hoa"
+	},
+	{
+		"description": "Huyện Phú Lộc",
+		"code": "5371",
+		"name": "Phú Lộc",
+		"province_code": "53",
+		"slug_name": "Phu Loc"
+	},
+	{
+		"description": "Huyện Phú Lương",
+		"code": "2538",
+		"name": "Phú Lương",
+		"province_code": "25",
+		"slug_name": "Phu Luong"
+	},
+	{
+		"description": "Quận Phú Nhuận",
+		"code": "7250",
+		"name": "Phú Nhuận",
+		"province_code": "70",
+		"slug_name": "Phu Nhuan"
+	},
+	{
+		"description": "Huyện Phú Ninh",
+		"code": "5662",
+		"name": "Phú Ninh",
+		"province_code": "56",
+		"slug_name": "Phu Ninh"
+	},
+	{
+		"description": "Huyện Phú Quý",
+		"code": "8044",
+		"name": "Phú Quý",
+		"province_code": "80",
+		"slug_name": "Phu Quy"
+	},
+	{
+		"description": "Huyện Phú Quốc",
+		"code": "9222",
+		"name": "Phú Quốc",
+		"province_code": "92",
+		"slug_name": "Phu Quoc"
+	},
+	{
+		"description": "Thị xã Phú Thọ",
+		"code": "2935",
+		"name": "Phú Thọ",
+		"province_code": "29",
+		"slug_name": "Phu Tho"
+	},
+	{
+		"description": "Huyện Phú Tân",
+		"code": "8825",
+		"name": "Phú Tân",
+		"province_code": "88",
+		"slug_name": "Phu Tan"
+	},
+	{
+		"description": "Huyện Phú Tân",
+		"code": "9736",
+		"name": "Phú Tân",
+		"province_code": "97",
+		"slug_name": "Phu Tan"
+	},
+	{
+		"description": "Huyện Phú Vang",
+		"code": "5367",
+		"name": "Phú Vang",
+		"province_code": "53",
+		"slug_name": "Phu Vang"
+	},
+	{
+		"description": "Huyện Phú Xuyên",
+		"code": "1580",
+		"name": "Phú Xuyên",
+		"province_code": "10",
+		"slug_name": "Phu Xuyen"
+	},
+	{
+		"description": "Huyện Phúc Thọ",
+		"code": "1536",
+		"name": "Phúc Thọ",
+		"province_code": "10",
+		"slug_name": "Phuc Tho"
+	},
+	{
+		"description": "Thị xã Phúc Yên",
+		"code": "2834",
+		"name": "Phúc Yên",
+		"province_code": "28",
+		"slug_name": "Phuc Yen"
+	},
+	{
+		"description": "Thành Phố Phủ Lý",
+		"code": "4010",
+		"name": "Phủ Lý",
+		"province_code": "40",
+		"slug_name": "Phu Ly"
+	},
+	{
+		"description": "Huyện Phục Hòa",
+		"code": "2778",
+		"name": "Phục Hòa",
+		"province_code": "27",
+		"slug_name": "Phuc Hoa"
+	},
+	{
+		"description": "Huyện Phụng Hiệp",
+		"code": "9118",
+		"name": "Phụng Hiệp",
+		"province_code": "91",
+		"slug_name": "Phung Hiep"
+	},
+	{
+		"description": "Huyện Phổ Yên",
+		"code": "2568",
+		"name": "Phổ Yên",
+		"province_code": "25",
+		"slug_name": "Pho Yen"
+	},
+	{
+		"description": "Huyện Phú Riềng",
+		"code": "8345",
+		"name": "Phú Riềng",
+		"province_code": "83",
+		"slug_name": "Phu Rieng"
+	},
+	{
+		"description": "Huyện Phú Thiện",
+		"code": "6069",
+		"name": "Phú Thiện",
+		"province_code": "60",
+		"slug_name": "Phu Thien"
+	},
+	{
+		"description": "Huyện Phước Long",
+		"code": "9621",
+		"name": "Phước Long",
+		"province_code": "96",
+		"slug_name": "Phuoc Long"
+	},
+	{
+		"description": "Huyện Phước Sơn",
+		"code": "5651",
+		"name": "Phước Sơn",
+		"province_code": "56",
+		"slug_name": "Phuoc Son"
+	},
+	{
+		"description": "Thị xã Phước Long",
+		"code": "8342",
+		"name": "Phước Long",
+		"province_code": "83",
+		"slug_name": "Phuoc Long"
+	},
+	{
+		"description": "Thành phố Pleiku",
+		"code": "6010",
+		"name": "Pleiku",
+		"province_code": "60",
+		"slug_name": "Pleiku"
+	},
+	{
+		"description": "Huyện Quan Hoá",
+		"code": "4526",
+		"name": "Quan Hoá",
+		"province_code": "44",
+		"slug_name": "Quan Hoa"
+	},
+	{
+		"description": "Huyện Quan Sơn",
+		"code": "4529",
+		"name": "Quan Sơn",
+		"province_code": "44",
+		"slug_name": "Quan Son"
+	},
+	{
+		"description": "Huyện Quang Bình",
+		"code": "3152",
+		"name": "Quang Bình",
+		"province_code": "31",
+		"slug_name": "Quang Binh"
+	},
+	{
+		"description": "Huyện Quản Bạ",
+		"code": "3131",
+		"name": "Quản Bạ",
+		"province_code": "31",
+		"slug_name": "Quan Ba"
+	},
+	{
+		"description": "Thành phố Quảng Ngãi",
+		"code": "5710",
+		"name": "Quảng Ngãi",
+		"province_code": "57",
+		"slug_name": "Quang Ngai"
+	},
+	{
+		"description": "Huyện Quảng Ninh",
+		"code": "5136",
+		"name": "Quảng Ninh",
+		"province_code": "51",
+		"slug_name": "Quang Ninh"
+	},
+	{
+		"description": "Thị xã Quảng Trị",
+		"code": "5237",
+		"name": "Quảng Trị",
+		"province_code": "52",
+		"slug_name": "Quang Tri"
+	},
+	{
+		"description": "Huyện Quảng Xương",
+		"code": "4555",
+		"name": "Quảng Xương",
+		"province_code": "44",
+		"slug_name": "Quang Xuong"
+	},
+	{
+		"description": "Huyện Quảng Điền",
+		"code": "5346",
+		"name": "Quảng Điền",
+		"province_code": "53",
+		"slug_name": "Quang Dien"
+	},
+	{
+		"description": "Thành Phố Quy Nhơn",
+		"code": "5910",
+		"name": "Quy Nhơn",
+		"province_code": "59",
+		"slug_name": "Quy Nhon"
+	},
+	{
+		"description": "Huyện Quỳ Châu",
+		"code": "4697",
+		"name": "Quỳ Châu",
+		"province_code": "46",
+		"slug_name": "Quy Chau"
+	},
+	{
+		"description": "Huyện Quỳ Hợp",
+		"code": "4690",
+		"name": "Quỳ Hợp",
+		"province_code": "46",
+		"slug_name": "Quy Hop"
+	},
+	{
+		"description": "Huyện Quỳnh Lưu",
+		"code": "4649",
+		"name": "Quỳnh Lưu",
+		"province_code": "46",
+		"slug_name": "Quynh Luu"
+	},
+	{
+		"description": "Huyện Quỳnh Nhai",
+		"code": "3653",
+		"name": "Quỳnh Nhai",
+		"province_code": "36",
+		"slug_name": "Quynh Nhai"
+	},
+	{
+		"description": "Huyện Quỳnh Phụ",
+		"code": "4136",
+		"name": "Quỳnh Phụ",
+		"province_code": "41",
+		"slug_name": "Quynh Phu"
+	},
+	{
+		"description": "Quận 1",
+		"code": "7100",
+		"name": "Quận 1",
+		"province_code": "70",
+		"slug_name": "Quan 1"
+	},
+	{
+		"description": "Quận 10",
+		"code": "7400",
+		"name": "Quận 10",
+		"province_code": "70",
+		"slug_name": "Quan 10"
+	},
+	{
+		"description": "Quận 11",
+		"code": "7430",
+		"name": "Quận 11",
+		"province_code": "70",
+		"slug_name": "Quan 11"
+	},
+	{
+		"description": "Quận 12",
+		"code": "7290",
+		"name": "Quận 12",
+		"province_code": "70",
+		"slug_name": "Quan 12"
+	},
+	{
+		"description": "Quận 2",
+		"code": "7130",
+		"name": "Quận 2",
+		"province_code": "70",
+		"slug_name": "Quan 2"
+	},
+	{
+		"description": "Quận 3",
+		"code": "7220",
+		"name": "Quận 3",
+		"province_code": "70",
+		"slug_name": "Quan 3"
+	},
+	{
+		"description": "Quận 4",
+		"code": "7540",
+		"name": "Quận 4",
+		"province_code": "70",
+		"slug_name": "Quan 4"
+	},
+	{
+		"description": "Quận 5",
+		"code": "7480",
+		"name": "Quận 5",
+		"province_code": "70",
+		"slug_name": "Quan 5"
+	},
+	{
+		"description": "Quận 6",
+		"code": "7460",
+		"name": "Quận 6",
+		"province_code": "70",
+		"slug_name": "Quan 6"
+	},
+	{
+		"description": "Quận 7",
+		"code": "7560",
+		"name": "Quận 7",
+		"province_code": "70",
+		"slug_name": "Quan 7"
+	},
+	{
+		"description": "Quận 8",
+		"code": "7510",
+		"name": "Quận 8",
+		"province_code": "70",
+		"slug_name": "Quan 8"
+	},
+	{
+		"description": "Quận 9",
+		"code": "7150",
+		"name": "Quận 9",
+		"province_code": "70",
+		"slug_name": "Quan 9"
+	},
+	{
+		"description": "Huyện Quế Phong",
+		"code": "4711",
+		"name": "Quế Phong",
+		"province_code": "46",
+		"slug_name": "Que Phong"
+	},
+	{
+		"description": "Huyện Quế Sơn",
+		"code": "5630",
+		"name": "Quế Sơn",
+		"province_code": "56",
+		"slug_name": "Que Son"
+	},
+	{
+		"description": "Huyện Quế Võ",
+		"code": "2228",
+		"name": "Quế Võ",
+		"province_code": "22",
+		"slug_name": "Que Vo"
+	},
+	{
+		"description": "Huyện Quốc Oai",
+		"code": "1557",
+		"name": "Quốc Oai",
+		"province_code": "10",
+		"slug_name": "Quoc Oai"
+	},
+	{
+		"description": "Huyện Quảng Trạch",
+		"code": "5146",
+		"name": "Quảng Trạch",
+		"province_code": "51",
+		"slug_name": "Quang Trach"
+	},
+	{
+		"description": "Huyện Quảng Hóa (Quảng Uyên cũ)",
+		"code": "2715",
+		"name": "Quảng Uyên",
+		"province_code": "27",
+		"slug_name": "Quang Uyen"
+	},
+	{
+		"description": "Thị xã Quảng Yên",
+		"code": "2075",
+		"name": "Quảng Yên",
+		"province_code": "20",
+		"slug_name": "Quang Yen"
+	},
+	{
+		"description": "Thành phố Rạch Giá",
+		"code": "9210",
+		"name": "Rạch Giá",
+		"province_code": "92",
+		"slug_name": "Rach Gia"
+	},
+	{
+		"description": "Huyện Sa Pa",
+		"code": "3331",
+		"name": "Sa Pa",
+		"province_code": "33",
+		"slug_name": "Sa Pa"
+	},
+	{
+		"description": "Huyện Sa Thầy",
+		"code": "5835",
+		"name": "Sa Thầy",
+		"province_code": "58",
+		"slug_name": "Sa Thay"
+	},
+	{
+		"description": "Thị xã Sa Đéc",
+		"code": "8731",
+		"name": "Sa Đéc",
+		"province_code": "87",
+		"slug_name": "Sa Dec"
+	},
+	{
+		"description": "Huyện Si Ma Cai",
+		"code": "3316",
+		"name": "Si Ma Cai",
+		"province_code": "33",
+		"slug_name": "Si Ma Cai"
+	},
+	{
+		"description": "Huyện Sìn Hồ",
+		"code": "3923",
+		"name": "Sìn Hồ",
+		"province_code": "39",
+		"slug_name": "Sin Ho"
+	},
+	{
+		"description": "Huyện Sóc Sơn",
+		"code": "1390",
+		"name": "Sóc Sơn",
+		"province_code": "10",
+		"slug_name": "Soc Son"
+	},
+	{
+		"description": "Thành phố Sóc Trăng",
+		"code": "9510",
+		"name": "Sóc Trăng",
+		"province_code": "95",
+		"slug_name": "Soc Trang"
+	},
+	{
+		"description": "Thị xã Sầm Sơn",
+		"code": "4420",
+		"name": "Sầm Sơn",
+		"province_code": "44",
+		"slug_name": "Sam Son"
+	},
+	{
+		"description": "Thị xã Sông Cầu",
+		"code": "6219",
+		"name": "Sông Cầu",
+		"province_code": "62",
+		"slug_name": "Song Cau"
+	},
+	{
+		"description": "Thị xã Sông Công",
+		"code": "2564",
+		"name": "Sông Công",
+		"province_code": "25",
+		"slug_name": "Song Cong"
+	},
+	{
+		"description": "Huyện Sông Hinh",
+		"code": "6227",
+		"name": "Sông Hinh",
+		"province_code": "62",
+		"slug_name": "Song Hinh"
+	},
+	{
+		"description": "Huyện Sông Lô",
+		"code": "2831",
+		"name": "Sông Lô",
+		"province_code": "28",
+		"slug_name": "Song Lo"
+	},
+	{
+		"description": "Huyện Sông Mã",
+		"code": "3668",
+		"name": "Sông Mã",
+		"province_code": "36",
+		"slug_name": "Song Ma"
+	},
+	{
+		"description": "Huyện Sốp Cộp",
+		"code": "3677",
+		"name": "Sốp Cộp",
+		"province_code": "36",
+		"slug_name": "Sop Cop"
+	},
+	{
+		"description": "Huyện Sơn Dương",
+		"code": "3028",
+		"name": "Sơn Dương",
+		"province_code": "30",
+		"slug_name": "Son Duong"
+	},
+	{
+		"description": "Huyện Sơn Hà",
+		"code": "5726",
+		"name": "Sơn Hà",
+		"province_code": "57",
+		"slug_name": "Son Ha"
+	},
+	{
+		"description": "Huyện Sơn Hoà",
+		"code": "6224",
+		"name": "Sơn Hoà",
+		"province_code": "62",
+		"slug_name": "Son Hoa"
+	},
+	{
+		"description": "Thành Phố Sơn La",
+		"code": "3610",
+		"name": "Sơn La",
+		"province_code": "36",
+		"slug_name": "Son La"
+	},
+	{
+		"description": "Huyện Sơn Tịnh",
+		"code": "5715",
+		"name": "Sơn Tịnh",
+		"province_code": "57",
+		"slug_name": "Son Tinh"
+	},
+	{
+		"description": "Quận Sơn Trà",
+		"code": "5533",
+		"name": "Sơn Trà",
+		"province_code": "55",
+		"slug_name": "Son Tra"
+	},
+	{
+		"description": "Huyện Sơn Tây",
+		"code": "5728",
+		"name": "Sơn Tây",
+		"province_code": "57",
+		"slug_name": "Son Tay"
+	},
+	{
+		"description": "Thị xã Sơn Tây",
+		"code": "1540",
+		"name": "Sơn Tây",
+		"province_code": "10",
+		"slug_name": "Son Tay"
+	},
+	{
+		"description": "Huyện Sơn Động",
+		"code": "2325",
+		"name": "Sơn Động",
+		"province_code": "23",
+		"slug_name": "Son Dong"
+	},
+	{
+		"description": "Huyện Tam Bình",
+		"code": "8917",
+		"name": "Tam Bình",
+		"province_code": "89",
+		"slug_name": "Tam Binh"
+	},
+	{
+		"description": "Huyện Tam Dương",
+		"code": "2815",
+		"name": "Tam Dương",
+		"province_code": "28",
+		"slug_name": "Tam Duong"
+	},
+	{
+		"description": "Thành phố Tam Kỳ",
+		"code": "5610",
+		"name": "Tam Kỳ",
+		"province_code": "56",
+		"slug_name": "Tam Ky"
+	},
+	{
+		"description": "Huyện Tam Nông",
+		"code": "8717",
+		"name": "Tam Nông",
+		"province_code": "87",
+		"slug_name": "Tam Nong"
+	},
+	{
+		"description": "Huyện Tam Nông",
+		"code": "2940",
+		"name": "Tam Nông",
+		"province_code": "29",
+		"slug_name": "Tam Nong"
+	},
+	{
+		"description": "Huyện Tam Đảo",
+		"code": "2836",
+		"name": "Tam Đảo",
+		"province_code": "28",
+		"slug_name": "Tam Dao"
+	},
+	{
+		"description": "Thị xã Tam Điệp",
+		"code": "4333",
+		"name": "Tam Điệp",
+		"province_code": "43",
+		"slug_name": "Tam Diep"
+	},
+	{
+		"description": "Huyện Tam Đường",
+		"code": "3911",
+		"name": "Tam Đường",
+		"province_code": "39",
+		"slug_name": "Tam Duong"
+	},
+	{
+		"description": "Huyện Tánh Linh",
+		"code": "8034",
+		"name": "Tánh Linh",
+		"province_code": "80",
+		"slug_name": "Tanh Linh"
+	},
+	{
+		"description": "Huyện Than Uyên",
+		"code": "3929",
+		"name": "Than Uyên",
+		"province_code": "39",
+		"slug_name": "Than Uyen"
+	},
+	{
+		"description": "Huyện Thanh Ba",
+		"code": "2956",
+		"name": "Thanh Ba",
+		"province_code": "29",
+		"slug_name": "Thanh Ba"
+	},
+	{
+		"description": "Huyện Thanh Bình",
+		"code": "8724",
+		"name": "Thanh Bình",
+		"province_code": "87",
+		"slug_name": "Thanh Binh"
+	},
+	{
+		"description": "Huyện Thanh Chương",
+		"code": "4757",
+		"name": "Thanh Chương",
+		"province_code": "46",
+		"slug_name": "Thanh Chuong"
+	},
+	{
+		"description": "Huyện Thanh Hà",
+		"code": "1727",
+		"name": "Thanh Hà",
+		"province_code": "17",
+		"slug_name": "Thanh Ha"
+	},
+	{
+		"description": "Thành phố Thanh Hoá",
+		"code": "4410",
+		"name": "Thanh Hoá",
+		"province_code": "44",
+		"slug_name": "Thanh Hoa"
+	},
+	{
+		"description": "Quận Thanh Khê",
+		"code": "5542",
+		"name": "Thanh Khê",
+		"province_code": "55",
+		"slug_name": "Thanh Khe"
+	},
+	{
+		"description": "Huyện Thanh Liêm",
+		"code": "4033",
+		"name": "Thanh Liêm",
+		"province_code": "40",
+		"slug_name": "Thanh Liem"
+	},
+	{
+		"description": "Huyện Thanh Miện",
+		"code": "1758",
+		"name": "Thanh Miện",
+		"province_code": "17",
+		"slug_name": "Thanh Mien"
+	},
+	{
+		"description": "Huyện Thanh Oai",
+		"code": "1567",
+		"name": "Thanh Oai",
+		"province_code": "10",
+		"slug_name": "Thanh Oai"
+	},
+	{
+		"description": "Huyện Thanh Sơn",
+		"code": "2982",
+		"name": "Thanh Sơn",
+		"province_code": "29",
+		"slug_name": "Thanh Son"
+	},
+	{
+		"description": "Huyện Thanh Thuỷ",
+		"code": "2945",
+		"name": "Thanh Thuỷ",
+		"province_code": "29",
+		"slug_name": "Thanh Thuy"
+	},
+	{
+		"description": "Huyện Thanh Trì",
+		"code": "1340",
+		"name": "Thanh Trì",
+		"province_code": "10",
+		"slug_name": "Thanh Tri"
+	},
+	{
+		"description": "Quận Thanh Xuân",
+		"code": "1200",
+		"name": "Thanh Xuân",
+		"province_code": "10",
+		"slug_name": "Thanh Xuan"
+	},
+	{
+		"description": "Thị xã Thái Hoà",
+		"code": "4772",
+		"name": "Thái Hoà",
+		"province_code": "46",
+		"slug_name": "Thai Hoa"
+	},
+	{
+		"description": "Thành phố Thái Nguyên",
+		"code": "2510",
+		"name": "Thái Nguyên",
+		"province_code": "25",
+		"slug_name": "Thai Nguyen"
+	},
+	{
+		"description": "Huyện Thái Thuỵ",
+		"code": "4128",
+		"name": "Thái Thuỵ",
+		"province_code": "41",
+		"slug_name": "Thai Thuy"
+	},
+	{
+		"description": "Huyện Tháp Mười",
+		"code": "8714",
+		"name": "Tháp Mười",
+		"province_code": "87",
+		"slug_name": "Thap Muoi"
+	},
+	{
+		"description": "Huyện Thạch An",
+		"code": "2771",
+		"name": "Thạch An",
+		"province_code": "27",
+		"slug_name": "Thach An"
+	},
+	{
+		"description": "Huyện Thạch Hà",
+		"code": "4819",
+		"name": "Thạch Hà",
+		"province_code": "48",
+		"slug_name": "Thach Ha"
+	},
+	{
+		"description": "Huyện Thạch Thành",
+		"code": "4470",
+		"name": "Thạch Thành",
+		"province_code": "44",
+		"slug_name": "Thach Thanh"
+	},
+	{
+		"description": "Huyện Thạch Thất",
+		"code": "1553",
+		"name": "Thạch Thất",
+		"province_code": "10",
+		"slug_name": "Thach That"
+	},
+	{
+		"description": "Huyện Thạnh Hoá",
+		"code": "8544",
+		"name": "Thạnh Hoá",
+		"province_code": "85",
+		"slug_name": "Thanh Hoa"
+	},
+	{
+		"description": "Huyện Thạnh Phú",
+		"code": "9330",
+		"name": "Thạnh Phú",
+		"province_code": "93",
+		"slug_name": "Thanh Phu"
+	},
+	{
+		"description": "Huyện Thạnh Trị",
+		"code": "9527",
+		"name": "Thạnh Trị",
+		"province_code": "95",
+		"slug_name": "Thanh Tri"
+	},
+	{
+		"description": "Huyện Thiệu Hoá",
+		"code": "4456",
+		"name": "Thiệu Hoá",
+		"province_code": "44",
+		"slug_name": "Thieu Hoa"
+	},
+	{
+		"description": "Huyện Thoại Sơn",
+		"code": "8846",
+		"name": "Thoại Sơn",
+		"province_code": "88",
+		"slug_name": "Thoai Son"
+	},
+	{
+		"description": "Huyện Thọ Xuân",
+		"code": "4497",
+		"name": "Thọ Xuân",
+		"province_code": "44",
+		"slug_name": "Tho Xuan"
+	},
+	{
+		"description": "Huyện Thuỷ Nguyên",
+		"code": "1830",
+		"name": "Thuỷ Nguyên",
+		"province_code": "18",
+		"slug_name": "Thuy Nguyen"
+	},
+	{
+		"description": "Thị xã Thuận An",
+		"code": "8239",
+		"name": "Thuận An",
+		"province_code": "82",
+		"slug_name": "Thuan An"
+	},
+	{
+		"description": "Huyện Thuận Bắc",
+		"code": "6636",
+		"name": "Thuận Bắc",
+		"province_code": "66",
+		"slug_name": "Thuan Bac"
+	},
+	{
+		"description": "Huyện Thuận Châu",
+		"code": "3657",
+		"name": "Thuận Châu",
+		"province_code": "36",
+		"slug_name": "Thuan Chau"
+	},
+	{
+		"description": "Huyện Thuận Thành",
+		"code": "2224",
+		"name": "Thuận Thành",
+		"province_code": "22",
+		"slug_name": "Thuan Thanh"
+	},
+	{
+		"description": "Thành phố Thủ Dầu Một",
+		"code": "8210",
+		"name": "Thủ Dầu Một",
+		"province_code": "82",
+		"slug_name": "Thu Dau Mot"
+	},
+	{
+		"description": "Huyện Thủ Thừa",
+		"code": "8534",
+		"name": "Thủ Thừa",
+		"province_code": "85",
+		"slug_name": "Thu Thua"
+	},
+	{
+		"description": "Quận Thủ Đức",
+		"code": "7200",
+		"name": "Thủ Đức",
+		"province_code": "70",
+		"slug_name": "Thu Duc"
+	},
+	{
+		"description": "Huyện Thuận Nam",
+		"code": "6638",
+		"name": "Thuận Nam",
+		"province_code": "66",
+		"slug_name": "Thuan Nam"
+	},
+	{
+		"description": "Thành phố Thái Bình",
+		"code": "4110",
+		"name": "Thái Bình",
+		"province_code": "41",
+		"slug_name": "Thai Binh"
+	},
+	{
+		"description": "Huyện Thông Nông",
+		"code": "2752",
+		"name": "Thông Nông",
+		"province_code": "27",
+		"slug_name": "Thong Nong"
+	},
+	{
+		"description": "Huyện Thống Nhất",
+		"code": "8137",
+		"name": "Thống Nhất",
+		"province_code": "81",
+		"slug_name": "Thong Nhat"
+	},
+	{
+		"description": "Quận Thốt Nốt",
+		"code": "9042",
+		"name": "Thốt Nốt",
+		"province_code": "90",
+		"slug_name": "Thot Not"
+	},
+	{
+		"description": "Huyện Thăng Bình",
+		"code": "5616",
+		"name": "Thăng Bình",
+		"province_code": "56",
+		"slug_name": "Thang Binh"
+	},
+	{
+		"description": "Huyện Thới Bình",
+		"code": "9718",
+		"name": "Thới Bình",
+		"province_code": "97",
+		"slug_name": "Thoi Binh"
+	},
+	{
+		"description": "Huyện Thường Tín",
+		"code": "1585",
+		"name": "Thường Tín",
+		"province_code": "10",
+		"slug_name": "Thuong Tin"
+	},
+	{
+		"description": "Huyện Thường Xuân",
+		"code": "4534",
+		"name": "Thường Xuân",
+		"province_code": "44",
+		"slug_name": "Thuong Xuan"
+	},
+	{
+		"description": "Thị xã Hồng Ngự",
+		"code": "8721",
+		"name": "Thị xã Hồng Ngự",
+		"province_code": "87",
+		"slug_name": "Thi Xa Hong Ngu"
+	},
+	{
+		"description": "Thị xã Kỳ Anh",
+		"code": "4894",
+		"name": "Thị xã Kỳ Anh",
+		"province_code": "48",
+		"slug_name": "Thi Xa Ky Anh"
+	},
+	{
+		"description": "Thị xã Long Mỹ",
+		"code": "9115",
+		"name": "Thị xã Long Mỹ",
+		"province_code": "91",
+		"slug_name": "Thi Xa Long My"
+	},
+	{
+		"description": "Huyện Thới Lai",
+		"code": "9056",
+		"name": "Thới Lai",
+		"province_code": "90",
+		"slug_name": "Thoi Lai"
+	},
+	{
+		"description": "Huyện Tiên Du",
+		"code": "2218",
+		"name": "Tiên Du",
+		"province_code": "22",
+		"slug_name": "Tien Du"
+	},
+	{
+		"description": "Huyện Tiên Lãng",
+		"code": "1856",
+		"name": "Tiên Lãng",
+		"province_code": "18",
+		"slug_name": "Tien Lang"
+	},
+	{
+		"description": "Huyện Tiên Lữ",
+		"code": "1613",
+		"name": "Tiên Lữ",
+		"province_code": "16",
+		"slug_name": "Tien Lu"
+	},
+	{
+		"description": "Huyện Tiên Phước",
+		"code": "5620",
+		"name": "Tiên Phước",
+		"province_code": "56",
+		"slug_name": "Tien Phuoc"
+	},
+	{
+		"description": "Huyện Tiên Yên",
+		"code": "2056",
+		"name": "Tiên Yên",
+		"province_code": "20",
+		"slug_name": "Tien Yen"
+	},
+	{
+		"description": "Huyện Tiền Hải",
+		"code": "4162",
+		"name": "Tiền Hải",
+		"province_code": "41",
+		"slug_name": "Tien Hai"
+	},
+	{
+		"description": "Huyện Tiểu Cần",
+		"code": "9423",
+		"name": "Tiểu Cần",
+		"province_code": "94",
+		"slug_name": "Tieu Can"
+	},
+	{
+		"description": "Huyện Tĩnh Gia",
+		"code": "4564",
+		"name": "Tĩnh Gia",
+		"province_code": "44",
+		"slug_name": "Tinh Gia"
+	},
+	{
+		"description": "Huyện Tịnh Biên",
+		"code": "8840",
+		"name": "Tịnh Biên",
+		"province_code": "88",
+		"slug_name": "Tinh Bien"
+	},
+	{
+		"description": "Huyện Trà Bồng",
+		"code": "5722",
+		"name": "Trà Bồng",
+		"province_code": "57",
+		"slug_name": "Tra Bong"
+	},
+	{
+		"description": "Huyện Trà Cú",
+		"code": "9430",
+		"name": "Trà Cú",
+		"province_code": "94",
+		"slug_name": "Tra Cu"
+	},
+	{
+		"description": "Huyện Trà Lĩnh",
+		"code": "2734",
+		"name": "Trà Lĩnh",
+		"province_code": "27",
+		"slug_name": "Tra Linh"
+	},
+	{
+		"description": "Thành phố Trà Vinh",
+		"code": "9410",
+		"name": "Trà Vinh",
+		"province_code": "94",
+		"slug_name": "Tra Vinh"
+	},
+	{
+		"description": "Huyện Trà Ôn",
+		"code": "8925",
+		"name": "Trà Ôn",
+		"province_code": "89",
+		"slug_name": "Tra On"
+	},
+	{
+		"description": "Huyện Tràng Định",
+		"code": "2431",
+		"name": "Tràng Định",
+		"province_code": "24",
+		"slug_name": "Trang Dinh"
+	},
+	{
+		"description": "Huyện Trảng Bàng",
+		"code": "8433",
+		"name": "Trảng Bàng",
+		"province_code": "84",
+		"slug_name": "Trang Bang"
+	},
+	{
+		"description": "Huyện Trảng Bom",
+		"code": "8164",
+		"name": "Trảng Bom",
+		"province_code": "81",
+		"slug_name": "Trang Bom"
+	},
+	{
+		"description": "Huyện Trạm Tấu",
+		"code": "3259",
+		"name": "Trạm Tấu",
+		"province_code": "32",
+		"slug_name": "Tram Tau"
+	},
+	{
+		"description": "Huyện Tri Tôn",
+		"code": "8843",
+		"name": "Tri Tôn",
+		"province_code": "88",
+		"slug_name": "Tri Ton"
+	},
+	{
+		"description": "Huyện Triệu Phong",
+		"code": "5233",
+		"name": "Triệu Phong",
+		"province_code": "52",
+		"slug_name": "Trieu Phong"
+	},
+	{
+		"description": "Huyện Triệu Sơn",
+		"code": "4487",
+		"name": "Triệu Sơn",
+		"province_code": "44",
+		"slug_name": "Trieu Son"
+	},
+	{
+		"description": "Huyện Trùng Khánh",
+		"code": "2727",
+		"name": "Trùng Khánh",
+		"province_code": "27",
+		"slug_name": "Trung Khanh"
+	},
+	{
+		"description": "Huyện Trần Văn Thời",
+		"code": "9723",
+		"name": "Trần Văn Thời",
+		"province_code": "97",
+		"slug_name": "Tran Van Thoi"
+	},
+	{
+		"description": "Huyện Trấn Yên",
+		"code": "3233",
+		"name": "Trấn Yên",
+		"province_code": "32",
+		"slug_name": "Tran Yen"
+	},
+	{
+		"description": "Huyện Trực Ninh",
+		"code": "4251",
+		"name": "Trực Ninh",
+		"province_code": "42",
+		"slug_name": "Truc Ninh"
+	},
+	{
+		"description": "Huyện Trường Sa",
+		"code": "6548",
+		"name": "Trường Sa",
+		"province_code": "65",
+		"slug_name": "Truong Sa"
+	},
+	{
+		"description": "Huyện Trần Đề",
+		"code": "9545",
+		"name": "Trần Đề",
+		"province_code": "95",
+		"slug_name": "Tran De"
+	},
+	{
+		"description": "Huyện Tu Mơ Rông",
+		"code": "5837",
+		"name": "Tu Mơ Rông",
+		"province_code": "58",
+		"slug_name": "Tu Mo Rong"
+	},
+	{
+		"description": "Huyện Tuy An",
+		"code": "6216",
+		"name": "Tuy An",
+		"province_code": "62",
+		"slug_name": "Tuy An"
+	},
+	{
+		"description": "Thành phố Tuy Hoà",
+		"code": "6210",
+		"name": "Tuy Hoà",
+		"province_code": "62",
+		"slug_name": "Tuy Hoa"
+	},
+	{
+		"description": "Huyện Tuy Phong",
+		"code": "8023",
+		"name": "Tuy Phong",
+		"province_code": "80",
+		"slug_name": "Tuy Phong"
+	},
+	{
+		"description": "Huyện Tuy Phước",
+		"code": "5917",
+		"name": "Tuy Phước",
+		"province_code": "59",
+		"slug_name": "Tuy Phuoc"
+	},
+	{
+		"description": "Huyện Tuy Đức",
+		"code": "6430",
+		"name": "Tuy Đức",
+		"province_code": "64",
+		"slug_name": "Tuy Duc"
+	},
+	{
+		"description": "Huyện Tuyên Hóa",
+		"code": "5128",
+		"name": "Tuyên Hóa",
+		"province_code": "51",
+		"slug_name": "Tuyen Hoa"
+	},
+	{
+		"description": "Thành phố Tuyên Quang",
+		"code": "3010",
+		"name": "Tuyên Quang",
+		"province_code": "30",
+		"slug_name": "Tuyen Quang"
+	},
+	{
+		"description": "Huyện Tuần Giáo",
+		"code": "3825",
+		"name": "Tuần Giáo",
+		"province_code": "38",
+		"slug_name": "Tuan Giao"
+	},
+	{
+		"description": "Huyện Tủa Chùa",
+		"code": "3836",
+		"name": "Tủa Chùa",
+		"province_code": "38",
+		"slug_name": "Tua Chua"
+	},
+	{
+		"description": "Thành phố Tân An",
+		"code": "8510",
+		"name": "Tân An",
+		"province_code": "85",
+		"slug_name": "Tan An"
+	},
+	{
+		"description": "Huyện Tân Biên",
+		"code": "8422",
+		"name": "Tân Biên",
+		"province_code": "84",
+		"slug_name": "Tan Bien"
+	},
+	{
+		"description": "Quận Tân Bình",
+		"code": "7360",
+		"name": "Tân Bình",
+		"province_code": "70",
+		"slug_name": "Tan Binh"
+	},
+	{
+		"description": "Thị xã Tân Châu",
+		"code": "8834",
+		"name": "Tân Châu",
+		"province_code": "88",
+		"slug_name": "Tan Chau"
+	},
+	{
+		"description": "Huyện Tân Châu",
+		"code": "8419",
+		"name": "Tân Châu",
+		"province_code": "84",
+		"slug_name": "Tan Chau"
+	},
+	{
+		"description": "Huyện Tân Hiệp",
+		"code": "9214",
+		"name": "Tân Hiệp",
+		"province_code": "92",
+		"slug_name": "Tan Hiep"
+	},
+	{
+		"description": "Huyện Tân Hồng",
+		"code": "8719",
+		"name": "Tân Hồng",
+		"province_code": "87",
+		"slug_name": "Tan Hong"
+	},
+	{
+		"description": "Huyện Tân Hưng",
+		"code": "8553",
+		"name": "Tân Hưng",
+		"province_code": "85",
+		"slug_name": "Tan Hung"
+	},
+	{
+		"description": "Huyện Tân Kỳ",
+		"code": "4684",
+		"name": "Tân Kỳ",
+		"province_code": "46",
+		"slug_name": "Tan Ky"
+	},
+	{
+		"description": "Huyện Tân Lạc",
+		"code": "3527",
+		"name": "Tân Lạc",
+		"province_code": "35",
+		"slug_name": "Tan Lac"
+	},
+	{
+		"description": "Quận Tân Phú",
+		"code": "7600",
+		"name": "Tân Phú",
+		"province_code": "70",
+		"slug_name": "Tan Phu"
+	},
+	{
+		"description": "Huyện Tân Phú Đông",
+		"code": "8651",
+		"name": "Tân Phú Đông",
+		"province_code": "86",
+		"slug_name": "Tan Phu Dong"
+	},
+	{
+		"description": "Huyện Tân Phước",
+		"code": "8639",
+		"name": "Tân Phước",
+		"province_code": "86",
+		"slug_name": "Tan Phuoc"
+	},
+	{
+		"description": "Huyện Tân Sơn",
+		"code": "2994",
+		"name": "Tân Sơn",
+		"province_code": "29",
+		"slug_name": "Tan Son"
+	},
+	{
+		"description": "Thị xã Phú Mỹ",
+		"code": "7956",
+		"name": "Phú Mỹ",
+		"province_code": "79",
+		"slug_name": "Phu My"
+	},
+	{
+		"description": "Huyện Tân Thạnh",
+		"code": "8546",
+		"name": "Tân Thạnh",
+		"province_code": "85",
+		"slug_name": "Tan Thanh"
+	},
+	{
+		"description": "Huyện Tân Trụ",
+		"code": "8521",
+		"name": "Tân Trụ",
+		"province_code": "85",
+		"slug_name": "Tan Tru"
+	},
+	{
+		"description": "Thị xã Tân Uyên",
+		"code": "8223",
+		"name": "Tân Uyên",
+		"province_code": "82",
+		"slug_name": "Tan Uyen"
+	},
+	{
+		"description": "Huyện Tân Uyên",
+		"code": "3936",
+		"name": "Tân Uyên",
+		"province_code": "39",
+		"slug_name": "Tan Uyen"
+	},
+	{
+		"description": "Huyện Tân Yên",
+		"code": "2353",
+		"name": "Tân Yên",
+		"province_code": "23",
+		"slug_name": "Tan Yen"
+	},
+	{
+		"description": "Huyện Tân Phú",
+		"code": "8146",
+		"name": "Tân phú",
+		"province_code": "81",
+		"slug_name": "Tan Phu"
+	},
+	{
+		"description": "Huyện Tây Giang",
+		"code": "5658",
+		"name": "Tây Giang",
+		"province_code": "56",
+		"slug_name": "Tay Giang"
+	},
+	{
+		"description": "Huyện Tây Hòa",
+		"code": "6232",
+		"name": "Tây Hòa",
+		"province_code": "62",
+		"slug_name": "Tay Hoa"
+	},
+	{
+		"description": "Quận Tây Hồ",
+		"code": "1240",
+		"name": "Tây Hồ",
+		"province_code": "10",
+		"slug_name": "Tay Ho"
+	},
+	{
+		"description": "Thị xã Tây Ninh",
+		"code": "8410",
+		"name": "Tây Ninh",
+		"province_code": "84",
+		"slug_name": "Tay Ninh"
+	},
+	{
+		"description": "Huyện Tây Sơn",
+		"code": "5942",
+		"name": "Tây Sơn",
+		"province_code": "59",
+		"slug_name": "Tay Son"
+	},
+	{
+		"description": "Huyện Tây Trà",
+		"code": "5724",
+		"name": "Tây Trà",
+		"province_code": "57",
+		"slug_name": "Tay Tra"
+	},
+	{
+		"description": "Huyện Tư Nghĩa",
+		"code": "5740",
+		"name": "Tư Nghĩa",
+		"province_code": "57",
+		"slug_name": "Tu Nghia"
+	},
+	{
+		"description": "Huyện Tương Dương",
+		"code": "4733",
+		"name": "Tương Dương",
+		"province_code": "46",
+		"slug_name": "Tuong Duong"
+	},
+	{
+		"description": "Thị xã Từ Sơn",
+		"code": "2221",
+		"name": "Từ Sơn",
+		"province_code": "22",
+		"slug_name": "Tu Son"
+	},
+	{
+		"description": "Huyện Tứ Kỳ",
+		"code": "1765",
+		"name": "Tứ Kỳ",
+		"province_code": "17",
+		"slug_name": "Tu Ky"
+	},
+	{
+		"description": "Huyện U Minh",
+		"code": "9721",
+		"name": "U Minh",
+		"province_code": "97",
+		"slug_name": "U Minh"
+	},
+	{
+		"description": "Huyện U Minh Thượng",
+		"code": "9246",
+		"name": "U Minh Thượng",
+		"province_code": "92",
+		"slug_name": "U Minh Thuong"
+	},
+	{
+		"description": "Thành phố Uông Bí",
+		"code": "2079",
+		"name": "Uông Bí",
+		"province_code": "20",
+		"slug_name": "Uong Bi"
+	},
+	{
+		"description": "Huyện Vạn Ninh",
+		"code": "6535",
+		"name": "Vạn Ninh",
+		"province_code": "65",
+		"slug_name": "Van Ninh"
+	},
+	{
+		"description": "Thành Phố Vinh",
+		"code": "4610",
+		"name": "Vinh",
+		"province_code": "46",
+		"slug_name": "Vinh"
+	},
+	{
+		"description": "Thành phố Việt Trì",
+		"code": "2910",
+		"name": "Việt Trì",
+		"province_code": "29",
+		"slug_name": "Viet Tri"
+	},
+	{
+		"description": "Huyện Việt Yên",
+		"code": "2361",
+		"name": "Việt Yên",
+		"province_code": "23",
+		"slug_name": "Viet Yen"
+	},
+	{
+		"description": "Huyện Vĩnh Bảo",
+		"code": "1862",
+		"name": "Vĩnh Bảo",
+		"province_code": "18",
+		"slug_name": "Vinh Bao"
+	},
+	{
+		"description": "Huyện Vĩnh Châu",
+		"code": "9535",
+		"name": "Vĩnh Châu",
+		"province_code": "95",
+		"slug_name": "Vinh Chau"
+	},
+	{
+		"description": "Huyện Vĩnh Cửu",
+		"code": "8150",
+		"name": "Vĩnh Cửu",
+		"province_code": "81",
+		"slug_name": "Vinh Cuu"
+	},
+	{
+		"description": "Huyện Vĩnh Hưng",
+		"code": "8551",
+		"name": "Vĩnh Hưng",
+		"province_code": "85",
+		"slug_name": "Vinh Hung"
+	},
+	{
+		"description": "Huyện Vĩnh Linh",
+		"code": "5218",
+		"name": "Vĩnh Linh",
+		"province_code": "52",
+		"slug_name": "Vinh Linh"
+	},
+	{
+		"description": "Thành Phố Vĩnh Long",
+		"code": "8910",
+		"name": "Vĩnh Long",
+		"province_code": "89",
+		"slug_name": "Vinh Long"
+	},
+	{
+		"description": "Huyện Vĩnh Lộc",
+		"code": "4467",
+		"name": "Vĩnh Lộc",
+		"province_code": "44",
+		"slug_name": "Vinh Loc"
+	},
+	{
+		"description": "Huyện Vĩnh Lợi",
+		"code": "9615",
+		"name": "Vĩnh Lợi",
+		"province_code": "96",
+		"slug_name": "Vinh Loi"
+	},
+	{
+		"description": "Huyện Vĩnh Thạnh",
+		"code": "9050",
+		"name": "Vĩnh Thạnh",
+		"province_code": "90",
+		"slug_name": "Vinh Thanh"
+	},
+	{
+		"description": "Huyện Vĩnh Thạnh",
+		"code": "5940",
+		"name": "Vĩnh Thạnh",
+		"province_code": "59",
+		"slug_name": "Vinh Thanh"
+	},
+	{
+		"description": "Huyện Vĩnh Thuận",
+		"code": "9232",
+		"name": "Vĩnh Thuận",
+		"province_code": "92",
+		"slug_name": "Vinh Thuan"
+	},
+	{
+		"description": "Huyện Vĩnh Tường",
+		"code": "2823",
+		"name": "Vĩnh Tường",
+		"province_code": "28",
+		"slug_name": "Vinh Tuong"
+	},
+	{
+		"description": "Thành phố Vĩnh Yên",
+		"code": "2810",
+		"name": "Vĩnh Yên",
+		"province_code": "28",
+		"slug_name": "Vinh Yen"
+	},
+	{
+		"description": "Thành phố Vị Thanh",
+		"code": "9110",
+		"name": "Vị Thanh",
+		"province_code": "91",
+		"slug_name": "Vi Thanh"
+	},
+	{
+		"description": "Huyện Vị Thuỷ",
+		"code": "9122",
+		"name": "Vị Thuỷ",
+		"province_code": "91",
+		"slug_name": "Vi Thuy"
+	},
+	{
+		"description": "Huyện Vị Xuyên",
+		"code": "3134",
+		"name": "Vị Xuyên",
+		"province_code": "31",
+		"slug_name": "Vi Xuyen"
+	},
+	{
+		"description": "Huyện Võ Nhai",
+		"code": "2532",
+		"name": "Võ Nhai",
+		"province_code": "25",
+		"slug_name": "Vo Nhai"
+	},
+	{
+		"description": "Huyện Vũ Quang",
+		"code": "4866",
+		"name": "Vũ Quang",
+		"province_code": "48",
+		"slug_name": "Vu Quang"
+	},
+	{
+		"description": "Huyện Vũ Thư",
+		"code": "4149",
+		"name": "Vũ Thư",
+		"province_code": "41",
+		"slug_name": "Vu Thu"
+	},
+	{
+		"description": "Huyện Vũng Liêm",
+		"code": "8929",
+		"name": "Vũng Liêm",
+		"province_code": "89",
+		"slug_name": "Vung Liem"
+	},
+	{
+		"description": "Thành phố Vũng Tàu",
+		"code": "7910",
+		"name": "Vũng Tàu",
+		"province_code": "79",
+		"slug_name": "Vung Tau"
+	},
+	{
+		"description": "Huyện Vụ Bản",
+		"code": "4242",
+		"name": "Vụ Bản",
+		"province_code": "42",
+		"slug_name": "Vu Ban"
+	},
+	{
+		"description": "Huyện Vân Canh",
+		"code": "5945",
+		"name": "Vân Canh",
+		"province_code": "59",
+		"slug_name": "Van Canh"
+	},
+	{
+		"description": "Huyện Vân Hồ",
+		"code": "3684",
+		"name": "Vân Hồ",
+		"province_code": "36",
+		"slug_name": "Van Ho"
+	},
+	{
+		"description": "Huyện Vân Đồn",
+		"code": "2053",
+		"name": "Vân Đồn",
+		"province_code": "20",
+		"slug_name": "Van Don"
+	},
+	{
+		"description": "Huyện Văn Bàn",
+		"code": "3347",
+		"name": "Văn Bàn",
+		"province_code": "33",
+		"slug_name": "Van Ban"
+	},
+	{
+		"description": "Huyện Văn Chấn",
+		"code": "3247",
+		"name": "Văn Chấn",
+		"province_code": "32",
+		"slug_name": "Van Chan"
+	},
+	{
+		"description": "Huyện Văn Giang",
+		"code": "1638",
+		"name": "Văn Giang",
+		"province_code": "16",
+		"slug_name": "Van Giang"
+	},
+	{
+		"description": "Huyện Văn Lãng",
+		"code": "2425",
+		"name": "Văn Lãng",
+		"province_code": "24",
+		"slug_name": "Van Lang"
+	},
+	{
+		"description": "Huyện Văn Lâm",
+		"code": "1635",
+		"name": "Văn Lâm",
+		"province_code": "16",
+		"slug_name": "Van Lam"
+	},
+	{
+		"description": "Huyện Văn Quan",
+		"code": "2439",
+		"name": "Văn Quan",
+		"province_code": "24",
+		"slug_name": "Van Quan"
+	},
+	{
+		"description": "Huyện Văn Yên",
+		"code": "3240",
+		"name": "Văn Yên",
+		"province_code": "32",
+		"slug_name": "Van Yen"
+	},
+	{
+		"description": "Huyện Xín Mần",
+		"code": "3144",
+		"name": "Xín Mần",
+		"province_code": "31",
+		"slug_name": "Xin Man"
+	},
+	{
+		"description": "Huyện Xuyên Mộc",
+		"code": "7948",
+		"name": "Xuyên Mộc",
+		"province_code": "79",
+		"slug_name": "Xuyen Moc"
+	},
+	{
+		"description": "Huyện Xuân Lộc",
+		"code": "8139",
+		"name": "Xuân Lộc",
+		"province_code": "81",
+		"slug_name": "Xuan Loc"
+	},
+	{
+		"description": "Huyện Xuân Trường",
+		"code": "4271",
+		"name": "Xuân Trường",
+		"province_code": "42",
+		"slug_name": "Xuan Truong"
+	},
+	{
+		"description": "Thành phố Yên Bái",
+		"code": "3210",
+		"name": "Yên Bái",
+		"province_code": "32",
+		"slug_name": "Yen Bai"
+	},
+	{
+		"description": "Huyện Yên Bình",
+		"code": "3219",
+		"name": "Yên Bình",
+		"province_code": "32",
+		"slug_name": "Yen Binh"
+	},
+	{
+		"description": "Huyện Yên Châu",
+		"code": "3624",
+		"name": "Yên Châu",
+		"province_code": "36",
+		"slug_name": "Yen Chau"
+	},
+	{
+		"description": "Huyện Yên Dũng",
+		"code": "2372",
+		"name": "Yên Dũng",
+		"province_code": "23",
+		"slug_name": "Yen Dung"
+	},
+	{
+		"description": "Huyện Yên Khánh",
+		"code": "4345",
+		"name": "Yên Khánh",
+		"province_code": "43",
+		"slug_name": "Yen Khanh"
+	},
+	{
+		"description": "Huyện Yên Lạc",
+		"code": "2828",
+		"name": "Yên Lạc",
+		"province_code": "28",
+		"slug_name": "Yen Lac"
+	},
+	{
+		"description": "Huyện Yên Lập",
+		"code": "2976",
+		"name": "Yên Lập",
+		"province_code": "29",
+		"slug_name": "Yen Lap"
+	},
+	{
+		"description": "Huyện Yên Minh",
+		"code": "3115",
+		"name": "Yên Minh",
+		"province_code": "31",
+		"slug_name": "Yen Minh"
+	},
+	{
+		"description": "Huyện Yên Mỹ",
+		"code": "1629",
+		"name": "Yên Mỹ",
+		"province_code": "16",
+		"slug_name": "Yen My"
+	},
+	{
+		"description": "Huyện Yên Mô",
+		"code": "4336",
+		"name": "Yên Mô",
+		"province_code": "43",
+		"slug_name": "Yen Mo"
+	},
+	{
+		"description": "Huyện Yên Phong",
+		"code": "2214",
+		"name": "Yên Phong",
+		"province_code": "22",
+		"slug_name": "Yen Phong"
+	},
+	{
+		"description": "Huyện Yên Sơn",
+		"code": "3015",
+		"name": "Yên Sơn",
+		"province_code": "30",
+		"slug_name": "Yen Son"
+	},
+	{
+		"description": "Huyện Yên Thành",
+		"code": "4662",
+		"name": "Yên Thành",
+		"province_code": "46",
+		"slug_name": "Yen Thanh"
+	},
+	{
+		"description": "Huyện Yên Thuỷ",
+		"code": "3548",
+		"name": "Yên Thuỷ",
+		"province_code": "35",
+		"slug_name": "Yen Thuy"
+	},
+	{
+		"description": "Huyện Yên Thế",
+		"code": "2347",
+		"name": "Yên Thế",
+		"province_code": "23",
+		"slug_name": "Yen The"
+	},
+	{
+		"description": "Huyện Yên Định",
+		"code": "4462",
+		"name": "Yên Định",
+		"province_code": "44",
+		"slug_name": "Yen Dinh"
+	},
+	{
+		"description": "Huyện Ân Thi",
+		"code": "1618",
+		"name": "Ân Thi",
+		"province_code": "16",
+		"slug_name": "An Thi"
+	},
+	{
+		"description": "Quận Ô Môn",
+		"code": "9040",
+		"name": "Ô Môn",
+		"province_code": "90",
+		"slug_name": "O Mon"
+	},
+	{
+		"description": "Huyện Ý Yên",
+		"code": "4257",
+		"name": "Ý Yên",
+		"province_code": "42",
+		"slug_name": "Y Yen"
+	},
+	{
+		"description": "Huyện Đa KRông",
+		"code": "5230",
+		"name": "Đa KRông",
+		"province_code": "52",
+		"slug_name": "Da Krong"
+	},
+	{
+		"description": "Huyện Đak Pơ",
+		"code": "6064",
+		"name": "Đak Pơ",
+		"province_code": "60",
+		"slug_name": "Dak Po"
+	},
+	{
+		"description": "Huyện Đak Đoa",
+		"code": "6017",
+		"name": "Đak Đoa",
+		"province_code": "60",
+		"slug_name": "Dak Doa"
+	},
+	{
+		"description": "Huyện Đam Rông",
+		"code": "6760",
+		"name": "Đam Rông",
+		"province_code": "67",
+		"slug_name": "Dam Rong"
+	},
+	{
+		"description": "Huyện Đan Phượng",
+		"code": "1424",
+		"name": "Đan Phượng",
+		"province_code": "10",
+		"slug_name": "Dan Phuong"
+	},
+	{
+		"description": "Huyện Đà Bắc",
+		"code": "3522",
+		"name": "Đà Bắc",
+		"province_code": "35",
+		"slug_name": "Da Bac"
+	},
+	{
+		"description": "Thành phố Đà Lạt",
+		"code": "6710",
+		"name": "Đà Lạt",
+		"province_code": "67",
+		"slug_name": "Da Lat"
+	},
+	{
+		"description": "Huyện Đại Lộc",
+		"code": "5647",
+		"name": "Đại Lộc",
+		"province_code": "56",
+		"slug_name": "Dai Loc"
+	},
+	{
+		"description": "Huyện Đại Từ",
+		"code": "2553",
+		"name": "Đại Từ",
+		"province_code": "25",
+		"slug_name": "Dai Tu"
+	},
+	{
+		"description": "Huyện Điện Bàn",
+		"code": "5642",
+		"name": "Điện Bàn",
+		"province_code": "56",
+		"slug_name": "Dien Ban"
+	},
+	{
+		"description": "Huyện Điện Biên",
+		"code": "3814",
+		"name": "Điện Biên",
+		"province_code": "38",
+		"slug_name": "Dien Bien"
+	},
+	{
+		"description": "Thành phố Điện Biên Phủ",
+		"code": "3810",
+		"name": "Điện Biên Phủ",
+		"province_code": "38",
+		"slug_name": "Dien Bien Phu"
+	},
+	{
+		"description": "Huyện Điện Biên Đông",
+		"code": "3820",
+		"name": "Điện Biên Đông",
+		"province_code": "38",
+		"slug_name": "Dien Bien Dong"
+	},
+	{
+		"description": "Huyện Đình Lập",
+		"code": "2475",
+		"name": "Đình Lập",
+		"province_code": "24",
+		"slug_name": "Dinh Lap"
+	},
+	{
+		"description": "Huyện Định Hoá",
+		"code": "2544",
+		"name": "Định Hoá",
+		"province_code": "25",
+		"slug_name": "Dinh Hoa"
+	},
+	{
+		"description": "Huyện Định Quán",
+		"code": "8142",
+		"name": "Định Quán",
+		"province_code": "81",
+		"slug_name": "Dinh Quan"
+	},
+	{
+		"description": "Huyện Đoan Hùng",
+		"code": "2949",
+		"name": "Đoan Hùng",
+		"province_code": "29",
+		"slug_name": "Doan Hung"
+	},
+	{
+		"description": "Huyện Đầm Dơi",
+		"code": "9730",
+		"name": "Đầm Dơi",
+		"province_code": "97",
+		"slug_name": "Dam Doi"
+	},
+	{
+		"description": "Huyện Đầm Hà",
+		"code": "2063",
+		"name": "Đầm Hà",
+		"province_code": "20",
+		"slug_name": "Dam Ha"
+	},
+	{
+		"description": "Huyện Đất Đỏ",
+		"code": "7946",
+		"name": "Đất Đỏ",
+		"province_code": "79",
+		"slug_name": "Dat Do"
+	},
+	{
+		"description": "Huyện Đô Lương",
+		"code": "4714",
+		"name": "Đô Lương",
+		"province_code": "46",
+		"slug_name": "Do Luong"
+	},
+	{
+		"description": "Huyện Đông Anh",
+		"code": "1360",
+		"name": "Đông Anh",
+		"province_code": "10",
+		"slug_name": "Dong Anh"
+	},
+	{
+		"description": "Huyện Đông Giang",
+		"code": "5655",
+		"name": "Đông Giang",
+		"province_code": "56",
+		"slug_name": "Dong Giang"
+	},
+	{
+		"description": "Thành phố Đông Hà",
+		"code": "5210",
+		"name": "Đông Hà",
+		"province_code": "52",
+		"slug_name": "Dong Ha"
+	},
+	{
+		"description": "Huyện Đông Hải",
+		"code": "9629",
+		"name": "Đông Hải",
+		"province_code": "96",
+		"slug_name": "Dong Hai"
+	},
+	{
+		"description": "Huyện Đông Hòa",
+		"code": "6230",
+		"name": "Đông Hòa",
+		"province_code": "62",
+		"slug_name": "Dong Hoa"
+	},
+	{
+		"description": "Huyện Đông Hưng",
+		"code": "4121",
+		"name": "Đông Hưng",
+		"province_code": "41",
+		"slug_name": "Dong Hung"
+	},
+	{
+		"description": "Huyện Đông Sơn",
+		"code": "4452",
+		"name": "Đông Sơn",
+		"province_code": "44",
+		"slug_name": "Dong Son"
+	},
+	{
+		"description": "Huyện Đông Triều",
+		"code": "2086",
+		"name": "Đông Triều",
+		"province_code": "20",
+		"slug_name": "Dong Trieu"
+	},
+	{
+		"description": "Quận Đồ Sơn",
+		"code": "1871",
+		"name": "Đồ Sơn",
+		"province_code": "18",
+		"slug_name": "Do Son"
+	},
+	{
+		"description": "Huyện Đồng Hỷ",
+		"code": "2525",
+		"name": "Đồng Hỷ",
+		"province_code": "25",
+		"slug_name": "Dong Hy"
+	},
+	{
+		"description": "Thành phố Đồng Hới",
+		"code": "5110",
+		"name": "Đồng Hới",
+		"province_code": "51",
+		"slug_name": "Dong Hoi"
+	},
+	{
+		"description": "Huyện Đồng Phú",
+		"code": "8315",
+		"name": "Đồng Phú",
+		"province_code": "83",
+		"slug_name": "Dong Phu"
+	},
+	{
+		"description": "Huyện Đồng Văn",
+		"code": "3126",
+		"name": "Đồng Văn",
+		"province_code": "31",
+		"slug_name": "Dong Van"
+	},
+	{
+		"description": "Thị xã Đồng Xoài",
+		"code": "8310",
+		"name": "Đồng Xoài",
+		"province_code": "83",
+		"slug_name": "Dong Xoai"
+	},
+	{
+		"description": "Huyện Đồng Xuân",
+		"code": "6222",
+		"name": "Đồng Xuân",
+		"province_code": "62",
+		"slug_name": "Dong Xuan"
+	},
+	{
+		"description": "Quận Đống Đa",
+		"code": "1150",
+		"name": "Đống Đa",
+		"province_code": "10",
+		"slug_name": "Dong Da"
+	},
+	{
+		"description": "Huyện Đắk Tô",
+		"code": "5825",
+		"name": "Đăk Tô",
+		"province_code": "58",
+		"slug_name": "Dak To"
+	},
+	{
+		"description": "Huyện Đắk Mil",
+		"code": "6418",
+		"name": "ĐắK Mil",
+		"province_code": "64",
+		"slug_name": "Dak Mil"
+	},
+	{
+		"description": "Huyện Đắk RLấp",
+		"code": "6413",
+		"name": "Đắk RLấp",
+		"province_code": "64",
+		"slug_name": "Dak Rlap"
+	},
+	{
+		"description": "Huyện Đơn Dương",
+		"code": "6725",
+		"name": "Đơn Dương",
+		"province_code": "67",
+		"slug_name": "Don Duong"
+	},
+	{
+		"description": "Huyện Đức Hoà",
+		"code": "8537",
+		"name": "Đức Hoà",
+		"province_code": "85",
+		"slug_name": "Duc Hoa"
+	},
+	{
+		"description": "Huyện Đức Huệ",
+		"code": "8542",
+		"name": "Đức Huệ",
+		"province_code": "85",
+		"slug_name": "Duc Hue"
+	},
+	{
+		"description": "Huyện Đức Linh",
+		"code": "8037",
+		"name": "Đức Linh",
+		"province_code": "80",
+		"slug_name": "Duc Linh"
+	},
+	{
+		"description": "Huyện Đức Phổ",
+		"code": "5735",
+		"name": "Đức Phổ",
+		"province_code": "57",
+		"slug_name": "Duc Pho"
+	},
+	{
+		"description": "Huyện Đức Thọ",
+		"code": "4849",
+		"name": "Đức Thọ",
+		"province_code": "48",
+		"slug_name": "Duc Tho"
+	},
+	{
+		"description": "Huyện Đức Trọng",
+		"code": "6733",
+		"name": "Đức Trọng",
+		"province_code": "67",
+		"slug_name": "Duc Trong"
+	},
+	{
+		"description": "Huyện Đạ Huoai",
+		"code": "6758",
+		"name": "Đạ Huoai",
+		"province_code": "67",
+		"slug_name": "Da Huoai"
+	},
+	{
+		"description": "Huyện Đạ Tẻh",
+		"code": "6752",
+		"name": "Đạ Tẻh",
+		"province_code": "67",
+		"slug_name": "Da Teh"
+	},
+	{
+		"description": "Huyện Đắk Glei",
+		"code": "5832",
+		"name": "Đắk Glei",
+		"province_code": "58",
+		"slug_name": "Dak Glei"
+	},
+	{
+		"description": "Huyện Đắk Glong",
+		"code": "6427",
+		"name": "Đắk Glong",
+		"province_code": "64",
+		"slug_name": "Dak Glong"
+	},
+	{
+		"description": "Huyện Đắk Hà",
+		"code": "5822",
+		"name": "Đắk Hà",
+		"province_code": "58",
+		"slug_name": "Dak Ha"
+	},
+	{
+		"description": "Huyện Đắk Song",
+		"code": "6416",
+		"name": "Đắk Song",
+		"province_code": "64",
+		"slug_name": "Dak Song"
+	},
+	{
+		"description": "Huyện Đức Cơ",
+		"code": "6038",
+		"name": "Đức Cơ",
+		"province_code": "60",
+		"slug_name": "Duc Co"
+	},
+	{
+		"description": "Huyện Ứng Hoà",
+		"code": "1571",
+		"name": "Ứng Hoà",
+		"province_code": "10",
+		"slug_name": "Ung Hoa"
+	}
+]
