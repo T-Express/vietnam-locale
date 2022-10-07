@@ -32,7 +32,10 @@ class VietnamLocale {
 
 	search({ category, searchString, drillDown }) {
 		if (category === "province") {
-			return matchSorter(provinces, searchString, searchOptions);
+			return matchSorter(provinces, searchString, {
+				keys: ["description", "slug_name"],
+				threshold: matchSorter.rankings.CONTAINS,
+			});
 		} else if (category === "district") {
 			if (drillDown.provinceCode) {
 				return matchSorter(
