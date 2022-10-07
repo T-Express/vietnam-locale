@@ -11,8 +11,8 @@ let q3 = "Quan 3";
 describe("Test Basic Functionality", () => {
 	describe("province", () => {
 		it("key by code", () => {
-			expect(vnLocale.provinceByCode[hcm.code]).to.be.an("object");
-			expect(vnLocale.provinceByCode[hcm.code].name).to.be.eq("Hồ Chí Minh");
+			expect(vnLocale.provincesByCode[hcm.code]).to.be.an("object");
+			expect(vnLocale.provincesByCode[hcm.code].name).to.be.eq("Hồ Chí Minh");
 		});
 
 		it("group by code", () => {

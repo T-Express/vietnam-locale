@@ -1,6 +1,6 @@
 {
 	"name": "vietnam-locale",
-	"version": "1.0.2",
+	"version": "1.0.3",
 	"description": "Library to lookup vietname provice, district, ward",
 	"main": "index.js",
 	"repository": "git@github.com:T-Express/vietnam-locale.git",
@@ -9,8 +9,7 @@
 	"dependencies": {
 		"lodash.groupby": "^4.6.0",
 		"lodash.keyby": "^4.6.0",
-		"match-sorter": "^6.3.1",
-		"remove-accents": "^0.4.3"
+		"match-sorter": "^6.3.1"
 	},
 	"devDependencies": {
 		"chai": "^4.3.6",
