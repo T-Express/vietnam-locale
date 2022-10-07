@@ -16,7 +16,7 @@ const searchOptions = {
 class VietnamLocale {
 	constructor() {
 		// === Province operation ====
-		this.provinceByCode = keyBy(provinces, "code");
+		this.provincesByCode = keyBy(provinces, "code");
 
 		// === District operation ====
 		this.districtsByProvincecode = groupBy(districts, "province_code");
@@ -28,6 +28,11 @@ class VietnamLocale {
 		});
 		this.wardsByDistrict = groupBy(wards, "district_code");
 		this.wardsByProvince = groupBy(wards, "province_code");
+
+		// raw data
+		this.wards = wards;
+		this.provinces = provinces;
+		this.districts = districts;
 	}
 
 	search({ category, searchString, drillDown }) {
