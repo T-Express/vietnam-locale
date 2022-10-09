@@ -81,6 +81,7 @@ describe("Test Basic Functionality", () => {
 			});
 
 			const allWards = vnLocale.searchWard("phuong 3");
+
 			const allWardsByHcm = vnLocale.searchWard("phuong 3", quan3.code);
 			const allWardsByHcmQ3 = vnLocale.searchWard(
 				"phuong 3",
@@ -89,6 +90,7 @@ describe("Test Basic Functionality", () => {
 			);
 
 			expect(allWards.length).to.be.gt(1); // ward can be repeated in Vietnam locale
+			expect(allWards[0].detail).to.be.a.string; // ward can be repeated in Vietnam locale
 			expect(allWards.length).to.be.gt(allWardsByHcm.length);
 			expect(allWardsByHcm.length).to.be.gte(allWardsByHcmQ3.length);
 		});

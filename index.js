@@ -1,5 +1,5 @@
 const districts = require("./data/district.json");
-const wards = require("./data/ward.json");
+const raw_wards = require("./data/ward.json");
 const provinces = require("./data/province.json");
 
 const keyBy = require("lodash.keyby");
@@ -63,6 +63,16 @@ const utils = {
 	toLowerCaseAndRemoveAccents: toLowerCaseNonAccentVietnamese,
 };
 
+const enhanceWards = (wards, districtsByCode, provincesByCode) => {
+	return wards.map((w) => {
+		w["detail"] = `${w.name}, ${districtsByCode[w.district_code].name}, ${
+			provincesByCode[w.province_code].description
+		}`;
+
+		return w;
+	});
+};
+
 class VietnamLocale {
 	constructor() {
 		// === Province operation ====
@@ -70,7 +80,13 @@ class VietnamLocale {
 
 		// === District operation ====
 		this.districtsByProvincecode = groupBy(districts, "province_code");
-		this.districtByCode = keyBy(districts, "code");
+		this.districtsByCode = keyBy(districts, "code");
+
+		const wards = enhanceWards(
+			raw_wards,
+			this.districtsByCode,
+			this.provincesByCode
+		);
 
 		// === Ward operation ====
 		this.wardsByProvinceAndDistrict = groupBy(wards, (item) => {
@@ -87,7 +103,7 @@ class VietnamLocale {
 
 	search({ category, searchString, drillDown }) {
 		if (category === "province") {
-			return matchSorter(provinces, searchString, {
+			return matchSorter(this.provinces, searchString, {
 				keys: ["description", "slug_name"],
 				threshold: matchSorter.rankings.CONTAINS,
 			});
@@ -100,7 +116,7 @@ class VietnamLocale {
 				);
 			}
 
-			return matchSorter(districts, searchString, searchOptions);
+			return matchSorter(this.districts, searchString, searchOptions);
 		} else if (category === "ward") {
 			if (drillDown.provinceCode && drillDown.districtCode) {
 				return matchSorter(
@@ -124,7 +140,7 @@ class VietnamLocale {
 				);
 			}
 
-			return matchSorter(wards, searchString, searchOptions);
+			return matchSorter(this.wards, searchString, searchOptions);
 		}
 	}
 
