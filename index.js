@@ -64,10 +64,14 @@ const utils = {
 };
 
 const enhanceWards = (wards, districtsByCode, provincesByCode) => {
+	let detail = `${w.name}, ${districtsByCode[w.district_code].name}, ${
+		provincesByCode[w.province_code].description
+	}`;
+
+	let raw_detail = toNonAccentVietnamese(detail);
 	return wards.map((w) => {
-		w["detail"] = `${w.name}, ${districtsByCode[w.district_code].name}, ${
-			provincesByCode[w.province_code].description
-		}`;
+		w["detail"] = detail;
+		w["raw_detail"] = raw_detail;
 
 		return w;
 	});
