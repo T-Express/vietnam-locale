@@ -1,6 +1,6 @@
 {
 	"name": "vietnam-locale",
-	"version": "1.0.7",
+	"version": "1.0.8",
 	"description": "Library to lookup vietname provice, district, ward",
 	"main": "index.js",
 	"repository": "git@github.com:T-Express/vietnam-locale.git",

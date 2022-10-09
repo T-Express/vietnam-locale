@@ -68,7 +68,7 @@ const enhanceWards = (wards, districtsByCode, provincesByCode) => {
 		let detail = `${w.name}, ${districtsByCode[w.district_code].name}, ${
 			provincesByCode[w.province_code].description
 		}`;
-		let raw_detail = toNonAccentVietnamese(detail);
+		let raw_detail = toNonAccentVietnamese(detail.replace(/,/g, ""));
 
 		w["detail"] = detail;
 		w["raw_detail"] = raw_detail;
