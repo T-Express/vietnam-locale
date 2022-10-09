@@ -3,7 +3,7 @@ const raw_wards = require("./data/ward.json");
 const provinces = require("./data/province.json");
 
 const keyBy = require("lodash.keyby");
-const groupBy = require("lodash.groupBy");
+const groupBy = require("lodash.groupby");
 
 const { matchSorter } = require("match-sorter");
 
@@ -64,12 +64,12 @@ const utils = {
 };
 
 const enhanceWards = (wards, districtsByCode, provincesByCode) => {
-	let detail = `${w.name}, ${districtsByCode[w.district_code].name}, ${
-		provincesByCode[w.province_code].description
-	}`;
-
-	let raw_detail = toNonAccentVietnamese(detail);
 	return wards.map((w) => {
+		let detail = `${w.name}, ${districtsByCode[w.district_code].name}, ${
+			provincesByCode[w.province_code].description
+		}`;
+		let raw_detail = toNonAccentVietnamese(detail);
+
 		w["detail"] = detail;
 		w["raw_detail"] = raw_detail;
 
