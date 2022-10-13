@@ -65,7 +65,7 @@ const utils = {
 
 const enhanceWards = (wards, districtsByCode, provincesByCode) => {
 	return wards.map((w) => {
-		let detail = `${w.name}, ${districtsByCode[w.district_code].name}, ${
+		let detail = `${w.name}, ${districtsByCode[w.district_code].description}, ${
 			provincesByCode[w.province_code].description
 		}`;
 		let raw_detail = toNonAccentVietnamese(detail.replace(/,/g, ""));
